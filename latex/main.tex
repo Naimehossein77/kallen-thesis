@@ -1,0 +1,77 @@
+\documentclass[12pt,a4paper]{report}
+
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\setmainlanguage{english}
+\setotherlanguage{bengali}
+
+\setmainfont{Times New Roman}
+\newfontfamily\bengalifontR[Script=Bengali]{Kohinoor Bangla}
+\newfontfamily\bengalifontB[Script=Bengali]{Kohinoor Bangla Bold}
+
+\makeatletter
+\newcommand{\savedFontCmd}{}
+\newcommand{\bengalienter}{%
+  \edef\savedFontCmd{%
+    \noexpand\fontencoding{\f@encoding}%
+    \noexpand\fontfamily{\f@family}%
+    \noexpand\fontseries{\f@series}%
+    \noexpand\fontshape{\f@shape}%
+    \noexpand\selectfont}%
+  \expandafter\ifx\csname f@series\endcsname\bfdefault
+    \bengalifontB
+  \else
+    \bengalifontR
+  \fi
+}
+\newcommand{\bengalileave}{\savedFontCmd}
+\makeatother
+
+\usepackage{ucharclasses}
+\setTransitionsFor{Bengali}{\bengalienter}{\bengalileave}
+
+\usepackage{newunicodechar}
+\newunicodechar{।}{{\bengalifontR ।}}
+\newunicodechar{॥}{{\bengalifontR ॥}}
+
+\usepackage{graphicx}
+\usepackage{url}
+\usepackage{ulem}
+\providecommand{\ul}[1]{\uline{#1}}
+\usepackage[hidelinks]{hyperref}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{calc}
+\usepackage{caption}
+\newcounter{none}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt}
+
+\usepackage[margin=1in]{geometry}
+
+\makeatletter
+\def\bnglnum#1{\expandafter\bngl@num\number\csname c@#1\endcsname\@empty}
+\def\bngl@num#1{\ifx\@empty#1\else\bngl@digit{#1}\expandafter\bngl@num\fi}
+\def\bngl@digit#1{\ifcase#1 ০\or ১\or ২\or ৩\or ৪\or ৫\or ৬\or ৭\or ৮\or ৯\fi}
+\makeatother
+
+\renewcommand{\thesection}{\bnglnum{section}}
+\renewcommand{\thesubsection}{\thesection.\bnglnum{subsection}}
+\renewcommand{\thesubsubsection}{\thesubsection.\bnglnum{subsubsection}}
+
+\addto\captionsenglish{\renewcommand{\contentsname}{সূচিপত্র}}
+
+\title{অনাহারকে অস্ত্র হিসেবে ব্যবহার: গাজা যুদ্ধের একটি কেস স্টাডি}
+\author{কল্যান রায় \and মোছাঃ আসমা খাতুন}
+\date{এপ্রিল, ২০২৬}
+
+\begin{document}
+
+\input{book.tex}
+
+\end{document}
