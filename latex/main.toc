@@ -56,48 +56,48 @@
 \contentsline {subsubsection}{৪.২.১ পরিসংখ্যানগত চিত্র }{28}{section*.32}%
 \contentsline {subsection}{\numberline {৪.৩}শিশু, নারী ও বিশেষ ঝুঁকিপূর্ণ জনগোষ্ঠীর উপর প্রভাব}{28}{subsection.0.4.3}%
 \contentsline {subsubsection}{৪.৩.১ শিশুদের উপর প্রভাব }{28}{section*.33}%
-\contentsline {subsubsection}{৪.৩.২ নারী ও মাতৃস্বাস্থ্যের উপর প্রভাব }{29}{section*.34}%
-\contentsline {subsubsection}{বয়স্ক, প্রতিবন্ধী ও দুর্বল জনগোষ্ঠীর অবস্থা}{30}{section*.35}%
+\contentsline {subsubsection}{৪.৩.২ নারী ও মাতৃস্বাস্থ্যের উপর প্রভাব }{29}{section*.35}%
+\contentsline {subsubsection}{বয়স্ক, প্রতিবন্ধী ও দুর্বল জনগোষ্ঠীর অবস্থা}{30}{section*.37}%
 \contentsline {subsection}{\numberline {৪.৪}স্বাস্থ্য ব্যবস্থার পতন ও মহামারীর ঝুঁকি }{31}{subsection.0.4.4}%
-\contentsline {subsubsection}{হাসপাতাল ও চিকিৎসা অবকাঠামোর ধ্বংস}{31}{section*.36}%
-\contentsline {subsubsection}{রোগের প্রাদুর্ভাব}{31}{section*.37}%
+\contentsline {subsubsection}{হাসপাতাল ও চিকিৎসা অবকাঠামোর ধ্বংস}{31}{section*.38}%
+\contentsline {subsubsection}{রোগের প্রাদুর্ভাব}{32}{section*.39}%
 \contentsline {subsection}{\numberline {৪.৫}দীর্ঘমেয়াদী সামাজিক, অর্থনৈতিক ও মানসিক প্রভাব}{32}{subsection.0.4.5}%
-\contentsline {subsubsection}{সামাজিক কাঠামো ধ্বংস}{32}{section*.38}%
-\contentsline {subsubsection}{৪.৫.২ অর্থনৈতিক ধ্বংস }{32}{section*.39}%
-\contentsline {subsubsection}{মানসিক স্বাস্থ্যের উপর প্রভাব}{33}{section*.40}%
+\contentsline {subsubsection}{সামাজিক কাঠামো ধ্বংস}{32}{section*.40}%
+\contentsline {subsubsection}{৪.৫.২ অর্থনৈতিক ধ্বংস }{33}{section*.41}%
+\contentsline {subsubsection}{৪.৫.৩ মানসিক স্বাস্থ্যের উপর প্রভাব}{33}{section*.42}%
 \contentsline {subsection}{\numberline {৪.৬}ভবিষ্যৎ প্রজন্মের উপর দীর্ঘমেয়াদী প্রভাব}{34}{subsection.0.4.6}%
-\contentsline {subsubsection}{৪.৬.১ হারানো প্রজন্ম }{34}{section*.41}%
-\contentsline {subsubsection}{৪.৬.২ পুনর্গঠনের চ্যালেঞ্জ }{34}{section*.42}%
-\contentsline {subsection}{\numberline {৪.৭}উপসংহার: একটি গণ-মানবিক বিপর্যয়ের দলিল}{34}{subsection.0.4.7}%
+\contentsline {subsubsection}{৪.৬.১ হারানো প্রজন্ম }{34}{section*.43}%
+\contentsline {subsubsection}{৪.৬.২ পুনর্গঠনের চ্যালেঞ্জ }{34}{section*.44}%
+\contentsline {subsection}{\numberline {৪.৭}উপসংহার}{35}{subsection.0.4.7}%
 \contentsline {section}{\numberline {৫}পঞ্চম অধ্যায়: আন্তর্জাতিক প্রতিক্রিয়া}{35}{section.0.5}%
 \contentsline {subsection}{\numberline {৫.১}জাতিসংঘের ভূমিকা}{35}{subsection.0.5.1}%
-\contentsline {subsubsection}{সতর্কীকরণ: মানবিক বিপর্যয়ের আগাম সংকেত}{35}{section*.43}%
-\contentsline {subsubsection}{নিরাপত্তা পরিষদের অচলাবস্থা}{36}{section*.44}%
-\contentsline {subsection}{\numberline {৫.২}আন্তর্জাতিক আদালত ও বিচারিক প্রক্রিয়া}{36}{subsection.0.5.2}%
-\contentsline {subsubsection}{আন্তর্জাতিক ন্যায়বিচার আদালত (ICJ): দক্ষিণ আফ্রিকার মামলা ও এর তাৎপর্য}{36}{section*.45}%
-\contentsline {subsubsection}{আন্তর্জাতিক ফৌজদারি আদালত (ICC)}{37}{section*.46}%
-\contentsline {subsubsection}{সর্বজনীন এখতিয়ার (Universal Jurisdiction)}{37}{section*.47}%
-\contentsline {subsection}{\numberline {৫.৩}আঞ্চলিক ও রাষ্ট্রীয় ভূমিকা: কূটনৈতিক বিভাজন ও নিরব সমর্থন}{37}{subsection.0.5.3}%
-\contentsline {subsubsection}{ইসরাইলের অকৃত্রিম মিত্র: যুক্তরাষ্ট্র ও কিছু পশ্চিমা রাষ্ট্র}{38}{section*.48}%
-\contentsline {subsubsection}{সক্রিয় সমালোচক ও আইনি পদক্ষেপের নেতৃত্ব}{38}{section*.49}%
-\contentsline {subsubsection}{মিসর ও জর্ডানের দ্বিধাবিভক্ত ভূমিকা}{38}{section*.50}%
-\contentsline {subsection}{\numberline {৫.৪}আন্তর্জাতিক জনমত ও নাগরিক সমাজের ভূমিকা}{39}{subsection.0.5.4}%
-\contentsline {subsubsection}{মানবাধিকার সংগঠন ও এনজিও: নথিভুক্তকরণ ও নৈতিক চাপ}{39}{section*.51}%
-\contentsline {subsubsection}{গণমাধ্যম, সামাজিক যোগাযোগমাধ্যম ও জনমত}{39}{section*.52}%
-\contentsline {subsubsection}{বৈশ্বিক প্রতিবাদ, বয়কট ও নাগরিক আন্দোলন}{39}{section*.53}%
-\contentsline {subsubsection}{সীমাবদ্ধতা ও সামগ্রিক মূল্যায়ন}{40}{section*.54}%
-\contentsline {subsection}{\numberline {৫.৫}মূল্যায়ন: কেন আন্তর্জাতিক ব্যবস্থা ব্যর্থ হলো?}{40}{subsection.0.5.5}%
-\contentsline {subsubsection}{শক্তির ভারসাম্য ও ভেটো রাজনীতি: আন্তর্জাতিক আইনের কাঠামোগত সীমাবদ্ধতা}{40}{section*.55}%
-\contentsline {subsubsection}{ইসরাইলের কৌশলগত গুরুত্ব ও de facto শাস্তিমুক্ততা}{41}{section*.56}%
-\contentsline {subsubsection}{বিচারিক প্রক্রিয়ার ধীরগতি ও দুর্বল প্রয়োগ ক্ষমতা}{41}{section*.57}%
-\contentsline {subsubsection}{মানবিক সাহায্যের রাজনীতিকরণ: ত্রাণ থেকে নিয়ন্ত্রণের উপকরণ}{41}{section*.58}%
-\contentsline {section}{\numberline {৬}\textbf {ষষ্ঠ অধ্যায়}\textbf {:} উপসংহার ও সুপারিশ }{42}{section.0.6}%
-\contentsline {subsection}{\numberline {৬.১}গবেষণার সারসংক্ষেপ}{42}{subsection.0.6.1}%
-\contentsline {subsection}{\numberline {৬.২}নীতিগত ও আইনি সুপারিশ}{42}{subsection.0.6.2}%
-\contentsline {subsubsection}{আন্তর্জাতিক ব্যবস্থার জন্য সুপারিশ}{42}{section*.59}%
-\contentsline {subsubsection}{আন্তর্জাতিক আদালত ও আইনি কাঠামোর জন্য সুপারিশ}{42}{section*.60}%
-\contentsline {subsubsection}{রাষ্ট্র ও নাগরিক সমাজের জন্য সুপারিশ}{43}{section*.61}%
-\contentsline {subsection}{\numberline {৬.৩}ভবিষ্যৎ গবেষণার ক্ষেত্র}{43}{subsection.0.6.3}%
-\contentsline {subsection}{\numberline {৬.৪}গবেষণার সীমাবদ্ধতা }{43}{subsection.0.6.4}%
-\contentsline {subsection}{\numberline {৬.৫}সমাপ্ত মন্তব্য }{43}{subsection.0.6.5}%
-\contentsline {section}{\numberline {৭}গ্রন্থপঞ্জি}{44}{section.0.7}%
+\contentsline {subsubsection}{সতর্কীকরণ: মানবিক বিপর্যয়ের আগাম সংকেত}{35}{section*.45}%
+\contentsline {subsubsection}{নিরাপত্তা পরিষদের অচলাবস্থা}{36}{section*.46}%
+\contentsline {subsection}{\numberline {৫.২}আন্তর্জাতিক আদালত ও বিচারিক প্রক্রিয়া}{37}{subsection.0.5.2}%
+\contentsline {subsubsection}{আন্তর্জাতিক ন্যায়বিচার আদালত (ICJ): দক্ষিণ আফ্রিকার মামলা ও এর তাৎপর্য}{37}{section*.47}%
+\contentsline {subsubsection}{আন্তর্জাতিক ফৌজদারি আদালত (ICC)}{37}{section*.48}%
+\contentsline {subsubsection}{সর্বজনীন এখতিয়ার (Universal Jurisdiction)}{38}{section*.49}%
+\contentsline {subsection}{\numberline {৫.৩}আঞ্চলিক ও রাষ্ট্রীয় ভূমিকা: কূটনৈতিক বিভাজন ও নিরব সমর্থন}{38}{subsection.0.5.3}%
+\contentsline {subsubsection}{ইসরাইলের অকৃত্রিম মিত্র: যুক্তরাষ্ট্র ও কিছু পশ্চিমা রাষ্ট্র}{38}{section*.50}%
+\contentsline {subsubsection}{সক্রিয় সমালোচক ও আইনি পদক্ষেপের নেতৃত্ব}{39}{section*.51}%
+\contentsline {subsubsection}{মিসর ও জর্ডানের দ্বিধাবিভক্ত ভূমিকা}{39}{section*.52}%
+\contentsline {subsection}{\numberline {৫.৪}আন্তর্জাতিক জনমত ও নাগরিক সমাজের ভূমিকা}{40}{subsection.0.5.4}%
+\contentsline {subsubsection}{মানবাধিকার সংগঠন ও এনজিও: নথিভুক্তকরণ ও নৈতিক চাপ}{40}{section*.53}%
+\contentsline {subsubsection}{গণমাধ্যম, সামাজিক যোগাযোগমাধ্যম ও জনমত}{40}{section*.54}%
+\contentsline {subsubsection}{বৈশ্বিক প্রতিবাদ, বয়কট ও নাগরিক আন্দোলন}{41}{section*.55}%
+\contentsline {subsubsection}{সীমাবদ্ধতা ও সামগ্রিক মূল্যায়ন}{41}{section*.56}%
+\contentsline {subsection}{\numberline {৫.৫}মূল্যায়ন: কেন আন্তর্জাতিক ব্যবস্থা ব্যর্থ হলো?}{41}{subsection.0.5.5}%
+\contentsline {subsubsection}{শক্তির ভারসাম্য ও ভেটো রাজনীতি: আন্তর্জাতিক আইনের কাঠামোগত সীমাবদ্ধতা}{41}{section*.57}%
+\contentsline {subsubsection}{ইসরাইলের কৌশলগত গুরুত্ব ও de facto শাস্তিমুক্ততা}{42}{section*.58}%
+\contentsline {subsubsection}{বিচারিক প্রক্রিয়ার ধীরগতি ও দুর্বল প্রয়োগ ক্ষমতা}{43}{section*.59}%
+\contentsline {subsubsection}{মানবিক সাহায্যের রাজনীতিকরণ: ত্রাণ থেকে নিয়ন্ত্রণের উপকরণ}{43}{section*.60}%
+\contentsline {section}{\numberline {৬}\textbf {ষষ্ঠ অধ্যায়}\textbf {:} উপসংহার ও সুপারিশ }{43}{section.0.6}%
+\contentsline {subsection}{\numberline {৬.১}গবেষণার সারসংক্ষেপ}{43}{subsection.0.6.1}%
+\contentsline {subsection}{\numberline {৬.২}নীতিগত ও আইনি সুপারিশ}{44}{subsection.0.6.2}%
+\contentsline {subsubsection}{আন্তর্জাতিক ব্যবস্থার জন্য সুপারিশ}{44}{section*.61}%
+\contentsline {subsubsection}{আন্তর্জাতিক আদালত ও আইনি কাঠামোর জন্য সুপারিশ}{44}{section*.62}%
+\contentsline {subsubsection}{রাষ্ট্র ও নাগরিক সমাজের জন্য সুপারিশ}{44}{section*.63}%
+\contentsline {subsection}{\numberline {৬.৩}ভবিষ্যৎ গবেষণার ক্ষেত্র}{45}{subsection.0.6.3}%
+\contentsline {subsection}{\numberline {৬.৪}গবেষণার সীমাবদ্ধতা }{45}{subsection.0.6.4}%
+\contentsline {subsection}{\numberline {৬.৫}সমাপ্ত মন্তব্য }{45}{subsection.0.6.5}%
+\contentsline {section}{\numberline {৭}গ্রন্থপঞ্জি}{45}{section.0.7}%
