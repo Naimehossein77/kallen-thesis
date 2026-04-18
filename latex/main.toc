@@ -3,101 +3,100 @@
 \contentsline {section}{প্রত্যয়নপত্র}{2}{section*.2}%
 \contentsline {section}{কৃতজ্ঞতানামা}{3}{section*.3}%
 \contentsline {section}{সারসংক্ষেপ}{4}{section*.4}%
-\contentsline {section}{\numberline {১}প্রথম অধ্যায়: ভূমিকা}{6}{section.0.1}%
-\contentsline {subsection}{\numberline {১.১}১.১ গবেষণার প্রেক্ষাপট}{6}{subsection.0.1.1}%
+\contentsline {section}{\numberline {১}প্রথম অধ্যায়: ভূমিকা}{7}{section.0.1}%
+\contentsline {subsection}{\numberline {১.১}১.১ গবেষণার প্রেক্ষাপট}{7}{subsection.0.1.1}%
 \contentsline {subsection}{\numberline {১.২}\textbf {১.২} গবেষণার সমস্যা বিবৃতি}{8}{subsection.0.1.2}%
-\contentsline {subsection}{\numberline {১.৩}\textbf {১.৩ গবেষণা প্রশ্ন}}{8}{subsection.0.1.3}%
-\contentsline {subsection}{\numberline {১.৪}\textbf {১.৪ গবেষণার লক্ষ্য ও উদ্দেশ্য}}{9}{subsection.0.1.4}%
-\contentsline {subsection}{\numberline {১.৫}১.৫ গবেষণার প্রয়োজনীয়তা}{10}{subsection.0.1.5}%
-\contentsline {subsubsection}{১.৫.১ একাডেমিক প্রয়োজনীয়তা:}{10}{section*.6}%
-\contentsline {subsubsection}{১.৫.২ ব্যবহারিক/নীতিগত প্রয়োজনীয়তা:}{10}{section*.7}%
-\contentsline {subsection}{\numberline {১.৬}\textbf {১.৬} সাহিত্য পর্যালোচনা}{10}{subsection.0.1.6}%
-\contentsline {subsection}{\numberline {১.৭}\textbf {১.৭} গবেষণা পদ্ধতির রূপরেখা}{13}{subsection.0.1.7}%
-\contentsline {subsubsection}{১.৭.১ তথ্যের উৎস }{13}{section*.8}%
-\contentsline {subsubsection}{১.৭.২ তথ্য সংগ্রহ ও বিশ্লেষণ পদ্ধতি}{13}{section*.9}%
-\contentsline {subsubsection}{১.৭.৩ নৈতিক বিবেচনা }{14}{section*.10}%
-\contentsline {subsection}{\numberline {১.৮}\textbf {১.৮ অধ্যায় বিন্যাস}}{14}{subsection.0.1.8}%
-\contentsline {subsection}{\numberline {১.৯}৪. চতুর্থ অধ্যায়: আন্তর্জাতিক প্রতিক্রিয়া ও জবাবদিহিতার প্রচেষ্টা}{14}{subsection.0.1.9}%
-\contentsline {section}{\numberline {২}দ্বিতীয় অধ্যায়: গাজা সংঘাতের ঐতিহাসিক পটভূমি }{14}{section.0.2}%
-\contentsline {subsection}{\numberline {২.১}২.১ ভূমিকা }{14}{subsection.0.2.1}%
-\contentsline {subsection}{\numberline {২.২}২.২ সূচনা পর্ব: দখল ও নিয়ন্ত্রণের ভিত্তি (১৯৬৭-১৯৯৩)}{15}{subsection.0.2.2}%
-\contentsline {subsection}{\numberline {২.৩}প্রথম ইন্তিফাদা ও অসলো চুক্তি: নিয়ন্ত্রণের রূপান্তর (১৯৮৭-২০০০)}{15}{subsection.0.2.3}%
-\contentsline {subsection}{\numberline {২.৪}দ্বিতীয় ইন্তিফাদা, একতরফা বিচ্ছিন্নতা ও হামাসের উত্থান (২০০০-২০০৬)}{16}{subsection.0.2.4}%
-\contentsline {subsection}{\numberline {২.৫}অবরোধের যুগ: একটি কাঠামোগত নীতি হিসেবে নিষেধাজ্ঞা (২০০৭-২০২২)}{16}{subsection.0.2.5}%
-\contentsline {subsection}{\numberline {২.৬}(২০২৩-২০২৪) অবরোধ থেকে \textquotesingle সম্পূর্ণ যুদ্ধ\textquotesingle {} ও \textquotesingle সম্পূর্ণ অবরোধ\textquotesingle -এ রূপান্তর}{17}{subsection.0.2.6}%
-\contentsline {subsubsection}{পটভূমি ও সংঘাতের সূচনা}{17}{section*.11}%
-\contentsline {subsubsection}{``সম্পূর্ণ অবরোধ'' নীতি }{17}{section*.12}%
-\contentsline {subsubsection}{বেসামরিক অবকাঠামোর পদ্ধতিগত ধ্বংস}{17}{section*.13}%
-\contentsline {subsubsection}{ব্যাপক বাস্তুচ্যুতি ও জনসংখ্যাগত চাপ}{18}{section*.14}%
-\contentsline {subsubsection}{মানবিক সহায়তা প্রবেশে কাঠামোগত বাধা}{18}{section*.15}%
-\contentsline {subsubsection}{স্বাস্থ্য ব্যবস্থার ভেঙে পড়া}{18}{section*.16}%
-\contentsline {subsubsection}{আন্তর্জাতিক আইনি প্রতিক্রিয়া ও বিতর্ক}{18}{section*.17}%
-\contentsline {subsection}{\numberline {২.৭}২০২৫-২০২৬: দীর্ঘস্থায়ী সংকট ও অনিশ্চয়তার দশক? (প্রক্ষেপণ ও চলমান প্রবণতা)}{19}{subsection.0.2.7}%
-\contentsline {subsection}{\numberline {২.৮}উপসংহার}{19}{subsection.0.2.8}%
-\contentsline {section}{\numberline {৩}গাজা যুদ্ধে অনাহারকে যুদ্ধাস্ত্র হিসেবে ব্যবহারের বিশ্লেষণ}{19}{section.0.3}%
-\contentsline {subsection}{\numberline {৩.১}ভূমিকা}{19}{subsection.0.3.1}%
-\contentsline {subsection}{\numberline {৩.২}তাত্ত্বিক কাঠামো: রাজনৈতিক অপরাধ ও কাঠামোগত সহিংসতা হিসেবে অনাহার}{20}{subsection.0.3.2}%
-\contentsline {subsubsection}{রাজনৈতিক অপরাধ হিসেবে অনাহার}{20}{section*.18}%
-\contentsline {subsubsection}{কাঠামোগত সহিংসতা তত্ত্ব এবং অনাহার}{20}{section*.19}%
-\contentsline {subsubsection}{রাজনৈতিক উদ্দেশ্য, ক্ষমতা ও অনাহারের ব্যবহার}{21}{section*.20}%
-\contentsline {subsection}{\numberline {৩.৩}কৌশলগত পদ্ধতি: অনাহার সৃষ্টি ও স্থায়ীকরণের যন্ত্রপাতি}{21}{subsection.0.3.3}%
-\contentsline {subsubsection}{পূর্ণাঙ্গ অবরোধের ঘোষণা ও বাস্তবায়ন}{21}{section*.21}%
-\contentsline {subsubsection}{খাদ্য উৎপাদন ও সরবরাহ ব্যবস্থার সিস্টেমেটিক ধ্বংস}{22}{section*.23}%
-\contentsline {subsubsection}{জীবন রক্ষাকারী মৌলিক ব্যবস্থার উপর আঘাত}{23}{section*.25}%
-\contentsline {subsubsection}{মানবিক সাহায্য প্রবেশে ইচ্ছাকৃত, নিয়মিত ও মারাত্মক বাধা}{23}{section*.27}%
-\contentsline {subsection}{\numberline {৩.৪}আন্তর্জাতিক আইনের লঙ্ঘন: একটি স্পষ্ট ও উপেক্ষিত ফ্রেমওয়ার্ক}{24}{subsection.0.3.4}%
-\contentsline {subsubsection}{আন্তর্জাতিক মানবিক আইনের (IHL) লঙ্ঘন}{24}{section*.29}%
-\contentsline {subsubsection}{আন্তর্জাতিক মানবাধিকার আইনের (IHRL) লঙ্ঘন}{25}{section*.30}%
-\contentsline {subsubsection}{৩.৪.৩ ইসরাইলের ``সুরক্ষা অজুহাত'' ও ``মানবঢাল যুক্তি''-র আইনি খণ্ডন }{25}{section*.31}%
-\contentsline {subsection}{\numberline {৩.৫}অভিপ্রায় ও প্রমাণ বিশ্লেষণ }{26}{subsection.0.3.5}%
-\contentsline {section}{\numberline {৪}৪র্থ অধ্যায়: প্রভাব ও ফলাফল}{27}{section.0.4}%
-\contentsline {subsection}{\numberline {৪.১}ভূমিকা}{27}{subsection.0.4.1}%
-\contentsline {subsection}{\numberline {৪.২}খাদ্য নিরাপত্তাহীনতা ও দুর্ভিক্ষ-সদৃশ পরিস্থিতি }{28}{subsection.0.4.2}%
-\contentsline {subsubsection}{৪.২.১ পরিসংখ্যানগত চিত্র }{28}{section*.32}%
-\contentsline {subsection}{\numberline {৪.৩}শিশু, নারী ও বিশেষ ঝুঁকিপূর্ণ জনগোষ্ঠীর উপর প্রভাব}{28}{subsection.0.4.3}%
-\contentsline {subsubsection}{৪.৩.১ শিশুদের উপর প্রভাব }{28}{section*.33}%
-\contentsline {subsubsection}{৪.৩.২ নারী ও মাতৃস্বাস্থ্যের উপর প্রভাব }{29}{section*.35}%
-\contentsline {subsubsection}{বয়স্ক, প্রতিবন্ধী ও দুর্বল জনগোষ্ঠীর অবস্থা}{30}{section*.37}%
-\contentsline {subsection}{\numberline {৪.৪}স্বাস্থ্য ব্যবস্থার পতন ও মহামারীর ঝুঁকি }{31}{subsection.0.4.4}%
-\contentsline {subsubsection}{হাসপাতাল ও চিকিৎসা অবকাঠামোর ধ্বংস}{31}{section*.38}%
-\contentsline {subsubsection}{রোগের প্রাদুর্ভাব}{32}{section*.39}%
-\contentsline {subsection}{\numberline {৪.৫}দীর্ঘমেয়াদী সামাজিক, অর্থনৈতিক ও মানসিক প্রভাব}{32}{subsection.0.4.5}%
-\contentsline {subsubsection}{সামাজিক কাঠামো ধ্বংস}{32}{section*.40}%
-\contentsline {subsubsection}{৪.৫.২ অর্থনৈতিক ধ্বংস }{33}{section*.41}%
-\contentsline {subsubsection}{৪.৫.৩ মানসিক স্বাস্থ্যের উপর প্রভাব}{33}{section*.42}%
-\contentsline {subsection}{\numberline {৪.৬}ভবিষ্যৎ প্রজন্মের উপর দীর্ঘমেয়াদী প্রভাব}{34}{subsection.0.4.6}%
-\contentsline {subsubsection}{৪.৬.১ হারানো প্রজন্ম }{34}{section*.43}%
-\contentsline {subsubsection}{৪.৬.২ পুনর্গঠনের চ্যালেঞ্জ }{34}{section*.44}%
-\contentsline {subsection}{\numberline {৪.৭}উপসংহার}{35}{subsection.0.4.7}%
-\contentsline {section}{\numberline {৫}পঞ্চম অধ্যায়: আন্তর্জাতিক প্রতিক্রিয়া}{35}{section.0.5}%
-\contentsline {subsection}{\numberline {৫.১}জাতিসংঘের ভূমিকা}{35}{subsection.0.5.1}%
-\contentsline {subsubsection}{সতর্কীকরণ: মানবিক বিপর্যয়ের আগাম সংকেত}{35}{section*.45}%
-\contentsline {subsubsection}{নিরাপত্তা পরিষদের অচলাবস্থা}{36}{section*.46}%
-\contentsline {subsection}{\numberline {৫.২}আন্তর্জাতিক আদালত ও বিচারিক প্রক্রিয়া}{37}{subsection.0.5.2}%
-\contentsline {subsubsection}{আন্তর্জাতিক ন্যায়বিচার আদালত (ICJ): দক্ষিণ আফ্রিকার মামলা ও এর তাৎপর্য}{37}{section*.47}%
-\contentsline {subsubsection}{আন্তর্জাতিক ফৌজদারি আদালত (ICC)}{37}{section*.48}%
-\contentsline {subsubsection}{সর্বজনীন এখতিয়ার (Universal Jurisdiction)}{38}{section*.49}%
-\contentsline {subsection}{\numberline {৫.৩}আঞ্চলিক ও রাষ্ট্রীয় ভূমিকা: কূটনৈতিক বিভাজন ও নিরব সমর্থন}{38}{subsection.0.5.3}%
-\contentsline {subsubsection}{ইসরাইলের অকৃত্রিম মিত্র: যুক্তরাষ্ট্র ও কিছু পশ্চিমা রাষ্ট্র}{38}{section*.50}%
-\contentsline {subsubsection}{সক্রিয় সমালোচক ও আইনি পদক্ষেপের নেতৃত্ব}{39}{section*.51}%
-\contentsline {subsubsection}{মিসর ও জর্ডানের দ্বিধাবিভক্ত ভূমিকা}{39}{section*.52}%
-\contentsline {subsection}{\numberline {৫.৪}আন্তর্জাতিক জনমত ও নাগরিক সমাজের ভূমিকা}{40}{subsection.0.5.4}%
-\contentsline {subsubsection}{মানবাধিকার সংগঠন ও এনজিও: নথিভুক্তকরণ ও নৈতিক চাপ}{40}{section*.53}%
-\contentsline {subsubsection}{গণমাধ্যম, সামাজিক যোগাযোগমাধ্যম ও জনমত}{40}{section*.54}%
-\contentsline {subsubsection}{বৈশ্বিক প্রতিবাদ, বয়কট ও নাগরিক আন্দোলন}{41}{section*.55}%
-\contentsline {subsubsection}{সীমাবদ্ধতা ও সামগ্রিক মূল্যায়ন}{41}{section*.56}%
-\contentsline {subsection}{\numberline {৫.৫}মূল্যায়ন: কেন আন্তর্জাতিক ব্যবস্থা ব্যর্থ হলো?}{41}{subsection.0.5.5}%
-\contentsline {subsubsection}{শক্তির ভারসাম্য ও ভেটো রাজনীতি: আন্তর্জাতিক আইনের কাঠামোগত সীমাবদ্ধতা}{41}{section*.57}%
-\contentsline {subsubsection}{ইসরাইলের কৌশলগত গুরুত্ব ও de facto শাস্তিমুক্ততা}{42}{section*.58}%
-\contentsline {subsubsection}{বিচারিক প্রক্রিয়ার ধীরগতি ও দুর্বল প্রয়োগ ক্ষমতা}{43}{section*.59}%
-\contentsline {subsubsection}{মানবিক সাহায্যের রাজনীতিকরণ: ত্রাণ থেকে নিয়ন্ত্রণের উপকরণ}{43}{section*.60}%
-\contentsline {section}{\numberline {৬}\textbf {ষষ্ঠ অধ্যায়}\textbf {:} উপসংহার ও সুপারিশ }{43}{section.0.6}%
-\contentsline {subsection}{\numberline {৬.১}গবেষণার সারসংক্ষেপ}{43}{subsection.0.6.1}%
-\contentsline {subsection}{\numberline {৬.২}নীতিগত ও আইনি সুপারিশ}{44}{subsection.0.6.2}%
-\contentsline {subsubsection}{আন্তর্জাতিক ব্যবস্থার জন্য সুপারিশ}{44}{section*.61}%
-\contentsline {subsubsection}{আন্তর্জাতিক আদালত ও আইনি কাঠামোর জন্য সুপারিশ}{44}{section*.62}%
-\contentsline {subsubsection}{রাষ্ট্র ও নাগরিক সমাজের জন্য সুপারিশ}{44}{section*.63}%
-\contentsline {subsection}{\numberline {৬.৩}ভবিষ্যৎ গবেষণার ক্ষেত্র}{45}{subsection.0.6.3}%
-\contentsline {subsection}{\numberline {৬.৪}গবেষণার সীমাবদ্ধতা }{45}{subsection.0.6.4}%
-\contentsline {subsection}{\numberline {৬.৫}সমাপ্ত মন্তব্য }{45}{subsection.0.6.5}%
-\contentsline {section}{\numberline {৭}গ্রন্থপঞ্জি}{45}{section.0.7}%
+\contentsline {subsection}{\numberline {১.৩}\textbf {১.৩ গবেষণা প্রশ্ন}}{9}{subsection.0.1.3}%
+\contentsline {subsection}{\numberline {১.৪}\textbf {১.৪ গবেষণার লক্ষ্য ও উদ্দেশ্য}}{10}{subsection.0.1.4}%
+\contentsline {subsection}{\numberline {১.৫}১.৫ গবেষণার প্রয়োজনীয়তা}{11}{subsection.0.1.5}%
+\contentsline {subsubsection}{১.৫.১ একাডেমিক প্রয়োজনীয়তা:}{11}{section*.6}%
+\contentsline {subsubsection}{১.৫.২ ব্যবহারিক/নীতিগত প্রয়োজনীয়তা:}{11}{section*.7}%
+\contentsline {subsection}{\numberline {১.৬}\textbf {১.৬} সাহিত্য পর্যালোচনা}{11}{subsection.0.1.6}%
+\contentsline {subsection}{\numberline {১.৭}\textbf {১.৭} গবেষণা পদ্ধতির রূপরেখা}{14}{subsection.0.1.7}%
+\contentsline {subsubsection}{১.৭.১ তথ্যের উৎস }{14}{section*.8}%
+\contentsline {subsubsection}{১.৭.২ তথ্য সংগ্রহ ও বিশ্লেষণ পদ্ধতি}{15}{section*.9}%
+\contentsline {subsubsection}{১.৭.৩ নৈতিক বিবেচনা }{15}{section*.10}%
+\contentsline {subsection}{\numberline {১.৮}\textbf {১.৮ অধ্যায় বিন্যাস}}{15}{subsection.0.1.8}%
+\contentsline {subsection}{\numberline {১.৯}৪. চতুর্থ অধ্যায়: আন্তর্জাতিক প্রতিক্রিয়া ও জবাবদিহিতার প্রচেষ্টা}{16}{subsection.0.1.9}%
+\contentsline {section}{\numberline {২}দ্বিতীয় অধ্যায়: গাজা সংঘাতের ঐতিহাসিক পটভূমি }{16}{section.0.2}%
+\contentsline {subsection}{\numberline {২.১}২.১ ভূমিকা }{16}{subsection.0.2.1}%
+\contentsline {subsection}{\numberline {২.২}২.২ সূচনা পর্ব: দখল ও নিয়ন্ত্রণের ভিত্তি (১৯৬৭-১৯৯৩)}{16}{subsection.0.2.2}%
+\contentsline {subsection}{\numberline {২.৩}প্রথম ইন্তিফাদা ও অসলো চুক্তি: নিয়ন্ত্রণের রূপান্তর (১৯৮৭-২০০০)}{17}{subsection.0.2.3}%
+\contentsline {subsection}{\numberline {২.৪}দ্বিতীয় ইন্তিফাদা, একতরফা বিচ্ছিন্নতা ও হামাসের উত্থান (২০০০-২০০৬)}{17}{subsection.0.2.4}%
+\contentsline {subsection}{\numberline {২.৫}অবরোধের যুগ: একটি কাঠামোগত নীতি হিসেবে নিষেধাজ্ঞা (২০০৭-২০২২)}{18}{subsection.0.2.5}%
+\contentsline {subsection}{\numberline {২.৬}(২০২৩-২০২৪) অবরোধ থেকে \textquotesingle সম্পূর্ণ যুদ্ধ\textquotesingle {} ও \textquotesingle সম্পূর্ণ অবরোধ\textquotesingle -এ রূপান্তর}{19}{subsection.0.2.6}%
+\contentsline {subsubsection}{পটভূমি ও সংঘাতের সূচনা}{19}{section*.11}%
+\contentsline {subsubsection}{``সম্পূর্ণ অবরোধ'' নীতি }{19}{section*.12}%
+\contentsline {subsubsection}{বেসামরিক অবকাঠামোর পদ্ধতিগত ধ্বংস}{19}{section*.13}%
+\contentsline {subsubsection}{ব্যাপক বাস্তুচ্যুতি ও জনসংখ্যাগত চাপ}{20}{section*.14}%
+\contentsline {subsubsection}{মানবিক সহায়তা প্রবেশে কাঠামোগত বাধা}{20}{section*.15}%
+\contentsline {subsubsection}{স্বাস্থ্য ব্যবস্থার ভেঙে পড়া}{20}{section*.16}%
+\contentsline {subsubsection}{আন্তর্জাতিক আইনি প্রতিক্রিয়া ও বিতর্ক}{21}{section*.17}%
+\contentsline {subsection}{\numberline {২.৭}২০২৫-২০২৬: দীর্ঘস্থায়ী সংকট ও অনিশ্চয়তার দশক? (প্রক্ষেপণ ও চলমান প্রবণতা)}{21}{subsection.0.2.7}%
+\contentsline {subsection}{\numberline {২.৮}উপসংহার}{22}{subsection.0.2.8}%
+\contentsline {section}{\numberline {৩}গাজা যুদ্ধে অনাহারকে যুদ্ধাস্ত্র হিসেবে ব্যবহারের বিশ্লেষণ}{22}{section.0.3}%
+\contentsline {subsection}{\numberline {৩.১}ভূমিকা}{22}{subsection.0.3.1}%
+\contentsline {subsection}{\numberline {৩.২}তাত্ত্বিক কাঠামো: রাজনৈতিক অপরাধ ও কাঠামোগত সহিংসতা হিসেবে অনাহার}{22}{subsection.0.3.2}%
+\contentsline {subsubsection}{রাজনৈতিক অপরাধ হিসেবে অনাহার}{22}{section*.18}%
+\contentsline {subsubsection}{কাঠামোগত সহিংসতা তত্ত্ব এবং অনাহার}{23}{section*.19}%
+\contentsline {subsubsection}{রাজনৈতিক উদ্দেশ্য, ক্ষমতা ও অনাহারের ব্যবহার}{23}{section*.20}%
+\contentsline {subsection}{\numberline {৩.৩}কৌশলগত পদ্ধতি: অনাহার সৃষ্টি ও স্থায়ীকরণের যন্ত্রপাতি}{24}{subsection.0.3.3}%
+\contentsline {subsubsection}{পূর্ণাঙ্গ অবরোধের ঘোষণা ও বাস্তবায়ন}{24}{section*.21}%
+\contentsline {subsubsection}{খাদ্য উৎপাদন ও সরবরাহ ব্যবস্থার সিস্টেমেটিক ধ্বংস}{24}{section*.23}%
+\contentsline {subsubsection}{জীবন রক্ষাকারী মৌলিক ব্যবস্থার উপর আঘাত}{25}{section*.25}%
+\contentsline {subsubsection}{মানবিক সাহায্য প্রবেশে ইচ্ছাকৃত, নিয়মিত ও মারাত্মক বাধা}{26}{section*.27}%
+\contentsline {subsection}{\numberline {৩.৪}আন্তর্জাতিক আইনের লঙ্ঘন: একটি স্পষ্ট ও উপেক্ষিত ফ্রেমওয়ার্ক}{27}{subsection.0.3.4}%
+\contentsline {subsubsection}{আন্তর্জাতিক মানবিক আইনের (IHL) লঙ্ঘন}{27}{section*.29}%
+\contentsline {subsubsection}{আন্তর্জাতিক মানবাধিকার আইনের (IHRL) লঙ্ঘন}{28}{section*.30}%
+\contentsline {subsubsection}{৩.৪.৩ ইসরাইলের ``সুরক্ষা অজুহাত'' ও ``মানবঢাল যুক্তি''-র আইনি খণ্ডন }{29}{section*.31}%
+\contentsline {subsection}{\numberline {৩.৫}অভিপ্রায় ও প্রমাণ বিশ্লেষণ }{29}{subsection.0.3.5}%
+\contentsline {section}{\numberline {৪}৪র্থ অধ্যায়: প্রভাব ও ফলাফল}{31}{section.0.4}%
+\contentsline {subsection}{\numberline {৪.১}ভূমিকা}{31}{subsection.0.4.1}%
+\contentsline {subsection}{\numberline {৪.২}খাদ্য নিরাপত্তাহীনতা ও দুর্ভিক্ষ-সদৃশ পরিস্থিতি }{31}{subsection.0.4.2}%
+\contentsline {subsubsection}{৪.২.১ পরিসংখ্যানগত চিত্র }{31}{section*.32}%
+\contentsline {subsection}{\numberline {৪.৩}শিশু, নারী ও বিশেষ ঝুঁকিপূর্ণ জনগোষ্ঠীর উপর প্রভাব}{31}{subsection.0.4.3}%
+\contentsline {subsubsection}{৪.৩.১ শিশুদের উপর প্রভাব }{31}{section*.33}%
+\contentsline {subsubsection}{৪.৩.২ নারী ও মাতৃস্বাস্থ্যের উপর প্রভাব }{32}{section*.35}%
+\contentsline {subsubsection}{বয়স্ক, প্রতিবন্ধী ও দুর্বল জনগোষ্ঠীর অবস্থা}{33}{section*.37}%
+\contentsline {subsection}{\numberline {৪.৪}স্বাস্থ্য ব্যবস্থার পতন ও মহামারীর ঝুঁকি }{34}{subsection.0.4.4}%
+\contentsline {subsubsection}{হাসপাতাল ও চিকিৎসা অবকাঠামোর ধ্বংস}{34}{section*.38}%
+\contentsline {subsubsection}{রোগের প্রাদুর্ভাব}{35}{section*.39}%
+\contentsline {subsection}{\numberline {৪.৫}দীর্ঘমেয়াদী সামাজিক, অর্থনৈতিক ও মানসিক প্রভাব}{36}{subsection.0.4.5}%
+\contentsline {subsubsection}{সামাজিক কাঠামো ধ্বংস}{36}{section*.40}%
+\contentsline {subsubsection}{৪.৫.২ অর্থনৈতিক ধ্বংস }{37}{section*.41}%
+\contentsline {subsubsection}{৪.৫.৩ মানসিক স্বাস্থ্যের উপর প্রভাব}{37}{section*.42}%
+\contentsline {subsection}{\numberline {৪.৬}ভবিষ্যৎ প্রজন্মের উপর দীর্ঘমেয়াদী প্রভাব}{38}{subsection.0.4.6}%
+\contentsline {subsubsection}{৪.৬.১ হারানো প্রজন্ম }{38}{section*.43}%
+\contentsline {subsubsection}{৪.৬.২ পুনর্গঠনের চ্যালেঞ্জ }{38}{section*.44}%
+\contentsline {subsection}{\numberline {৪.৭}উপসংহার}{39}{subsection.0.4.7}%
+\contentsline {section}{\numberline {৫}পঞ্চম অধ্যায়: আন্তর্জাতিক প্রতিক্রিয়া}{40}{section.0.5}%
+\contentsline {subsection}{\numberline {৫.১}জাতিসংঘের ভূমিকা}{40}{subsection.0.5.1}%
+\contentsline {subsubsection}{সতর্কীকরণ: মানবিক বিপর্যয়ের আগাম সংকেত}{40}{section*.45}%
+\contentsline {subsubsection}{নিরাপত্তা পরিষদের অচলাবস্থা}{41}{section*.46}%
+\contentsline {subsection}{\numberline {৫.২}আন্তর্জাতিক আদালত ও বিচারিক প্রক্রিয়া}{41}{subsection.0.5.2}%
+\contentsline {subsubsection}{আন্তর্জাতিক ন্যায়বিচার আদালত (ICJ): দক্ষিণ আফ্রিকার মামলা ও এর তাৎপর্য}{41}{section*.47}%
+\contentsline {subsubsection}{আন্তর্জাতিক ফৌজদারি আদালত (ICC)}{42}{section*.48}%
+\contentsline {subsubsection}{সর্বজনীন এখতিয়ার (Universal Jurisdiction)}{42}{section*.49}%
+\contentsline {subsection}{\numberline {৫.৩}আঞ্চলিক ও রাষ্ট্রীয় ভূমিকা: কূটনৈতিক বিভাজন ও নিরব সমর্থন}{43}{subsection.0.5.3}%
+\contentsline {subsubsection}{ইসরাইলের অকৃত্রিম মিত্র: যুক্তরাষ্ট্র ও কিছু পশ্চিমা রাষ্ট্র}{43}{section*.50}%
+\contentsline {subsubsection}{সক্রিয় সমালোচক ও আইনি পদক্ষেপের নেতৃত্ব}{44}{section*.51}%
+\contentsline {subsubsection}{মিসর ও জর্ডানের দ্বিধাবিভক্ত ভূমিকা}{44}{section*.52}%
+\contentsline {subsection}{\numberline {৫.৪}আন্তর্জাতিক জনমত ও নাগরিক সমাজের ভূমিকা}{45}{subsection.0.5.4}%
+\contentsline {subsubsection}{মানবাধিকার সংগঠন ও এনজিও: নথিভুক্তকরণ ও নৈতিক চাপ}{45}{section*.53}%
+\contentsline {subsubsection}{গণমাধ্যম, সামাজিক যোগাযোগমাধ্যম ও জনমত}{45}{section*.54}%
+\contentsline {subsubsection}{বৈশ্বিক প্রতিবাদ, বয়কট ও নাগরিক আন্দোলন}{46}{section*.55}%
+\contentsline {subsubsection}{সীমাবদ্ধতা ও সামগ্রিক মূল্যায়ন}{46}{section*.56}%
+\contentsline {subsection}{\numberline {৫.৫}মূল্যায়ন: কেন আন্তর্জাতিক ব্যবস্থা ব্যর্থ হলো?}{47}{subsection.0.5.5}%
+\contentsline {subsubsection}{শক্তির ভারসাম্য ও ভেটো রাজনীতি: আন্তর্জাতিক আইনের কাঠামোগত সীমাবদ্ধতা}{47}{section*.57}%
+\contentsline {subsubsection}{ইসরাইলের কৌশলগত গুরুত্ব ও de facto শাস্তিমুক্ততা}{48}{section*.58}%
+\contentsline {subsubsection}{বিচারিক প্রক্রিয়ার ধীরগতি ও দুর্বল প্রয়োগ ক্ষমতা}{48}{section*.59}%
+\contentsline {subsubsection}{মানবিক সাহায্যের রাজনীতিকরণ: ত্রাণ থেকে নিয়ন্ত্রণের উপকরণ}{49}{section*.60}%
+\contentsline {section}{\numberline {৬}\textbf {ষষ্ঠ অধ্যায়}\textbf {:} উপসংহার ও সুপারিশ }{49}{section.0.6}%
+\contentsline {subsection}{\numberline {৬.১}নীতিগত ও আইনি সুপারিশ}{49}{subsection.0.6.1}%
+\contentsline {subsubsection}{আন্তর্জাতিক ব্যবস্থার জন্য সুপারিশ}{50}{section*.61}%
+\contentsline {subsubsection}{আন্তর্জাতিক আদালত ও আইনি কাঠামোর জন্য সুপারিশ}{50}{section*.62}%
+\contentsline {subsubsection}{রাষ্ট্র ও নাগরিক সমাজের জন্য সুপারিশ}{50}{section*.63}%
+\contentsline {subsection}{\numberline {৬.২}ভবিষ্যৎ গবেষণার ক্ষেত্র}{50}{subsection.0.6.2}%
+\contentsline {subsection}{\numberline {৬.৩}গবেষণার সীমাবদ্ধতা }{51}{subsection.0.6.3}%
+\contentsline {subsection}{\numberline {৬.৪}সমাপ্ত মন্তব্য }{51}{subsection.0.6.4}%
+\contentsline {section}{\numberline {৭}গ্রন্থপঞ্জি}{51}{section.0.7}%

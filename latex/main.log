@@ -3,8 +3,8 @@
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24> (report.cls
 Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
-(size12.clo
-File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+(size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count181
 \c@chapter=\count182
@@ -839,6 +839,10 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen184
 \Gm@dimlist=\toks21
 )
+
+LaTeX Warning: Unused global option(s):
+    [20pt].
+
 (main.aux
 LaTeX Info: Redefining \rmfamily on input line 19.
 LaTeX Info: Redefining \sffamily on input line 19.
@@ -846,96 +850,96 @@ LaTeX Info: Redefining \ttfamily on input line 19.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 73.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 7
-3.
+5.
  (ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 73.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 73.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 73.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 73.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 73.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 73.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 73.
-LaTeX Font Info:    Redeclaring math accent \check on input line 73.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 73.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 73.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 73.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 73.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 75.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 75.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 75.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 75.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 75.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 75.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 75.
+LaTeX Font Info:    Redeclaring math accent \check on input line 75.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 75.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 75.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 75.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 75.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 73.
+(Font)              `operators' in the math version `normal' on input line 75.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 7
-3.
+5.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 73.
+(Font)              `operators' in the math version `bold' on input line 75.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 
-73.
+75.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on 
-input line 73.
+input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line
- 73.
+ 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 
-73.
+75.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 73.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 73.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 75.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on 
-input line 73.
+input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input lin
-e 73.
+e 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 73.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 73.
-Package hyperref Info: Link coloring OFF on input line 73.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 75.
+Package hyperref Info: Link coloring OFF on input line 75.
  (nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (refcount.sty
@@ -945,9 +949,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count307
 )
-LaTeX Info: Redefining \ref on input line 73.
-LaTeX Info: Redefining \pageref on input line 73.
-LaTeX Info: Redefining \nameref on input line 73.
+LaTeX Info: Redefining \ref on input line 75.
+LaTeX Info: Redefining \pageref on input line 75.
+LaTeX Info: Redefining \nameref on input line 75.
 
 (main.out) (main.out)
 \@outlinefile=\write3
@@ -975,12 +979,12 @@ Package caption Info: End \AtBeginDocument code.
 * \topmargin=-37.0pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=12.0pt
+* \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=35.0pt
-* \marginparsep=10.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -990,68 +994,26 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \rmfamily on input line 73.
-LaTeX Info: Redefining \sffamily on input line 73.
-LaTeX Info: Redefining \ttfamily on input line 73.
+LaTeX Info: Redefining \rmfamily on input line 75.
+LaTeX Info: Redefining \sffamily on input line 75.
+LaTeX Info: Redefining \ttfamily on input line 75.
 (book.tex
 File: media/media/image1.png Graphic file (type bmp)
 <media/media/image1.png>
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 33.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 33.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 33.
  [1
 
 ] [1
 
-] [2
-
 ]
-Overfull \hbox (10.74011pt too wide) in paragraph at lines 125--126
-\TU/KohinoorBangla(0)/m/n/12 আন্তরিকভাবে কৃতজ্ঞতা জানাই পাবনা বিজ্ঞান ও প্রযুক্
-তি বিশ্ববিদ্যালয়ের ইতিহাস বিভাগের সহযোগী অধ্যাপক
- []
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 109.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 109.
+ [2
 
+] [3
 
-Overfull \hbox (6.40024pt too wide) in paragraph at lines 125--126
-\TU/KohinoorBangla(0)/m/n/12 ম্যাম এবং সিনিয়র অফিস সহকারী সাকিবুর রহমান ভাই\TU
-/TimesNewRoman(0)/m/n/12 -\TU/KohinoorBangla(0)/m/n/12 এর প্রতি। গবেষণা সম্পন্ন
- করার ক্ষেত্রে সার্বিকভাবে
- []
-
-[3
-
-]
-Overfull \hbox (16.04015pt too wide) in paragraph at lines 137--138
-\TU/KohinoorBangla(0)/m/n/12 অনাহার আরোপের একটি সুসংগঠিত কৌশল। এ লক্ষ্যে গবেষণা
-টি আন্তর্জাতিক মানবিক আইন\TU/TimesNewRoman(0)/m/n/12 , \TU/KohinoorBangla(0)/m/
-n/12 আন্তর্জাতিক
- []
-
-
-Overfull \hbox (18.37611pt too wide) in paragraph at lines 137--138
-\TU/KohinoorBangla(0)/m/n/12 মানবাধিকার আইন এবং আন্তর্জাতিক ফৌজদারি আইনের আলোকে
- ঘটনাবলীর বিশ্লেষণ করেছে। বিশেষভাবে
- []
-
-
-Overfull \hbox (13.38016pt too wide) in paragraph at lines 137--138
-\TU/KohinoorBangla(0)/m/n/12 গুণগত পদ্ধতি অনুসরণ করে\TU/TimesNewRoman(0)/m/n/12
- , \TU/KohinoorBangla(0)/m/n/12 যেখানে জাতিসংঘ\TU/TimesNewRoman(0)/m/n/12 , \TU
-/KohinoorBangla(0)/m/n/12 মানবাধিকার সংস্থা\TU/TimesNewRoman(0)/m/n/12 , \TU/Ko
-hinoorBangla(0)/m/n/12 আন্তর্জাতিক সংগঠন এবং নির্ভরযোগ্য
- []
-
-
-Overfull \hbox (7.34814pt too wide) in paragraph at lines 139--140
-[]\TU/KohinoorBangla(0)/m/n/12 গবেষণার ফলাফল থেকে প্রতীয়মান হয় যে\TU/TimesNew
-Roman(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/12 গাজায় খাদ্য ও জীবনধারণের অপরিহা
-র্য উপকরণে প্রবেশাধিকার
- []
-
-[4
+] [4
 
 ] (main.toc
 LaTeX Info: Redefining \rmfamily on input line 1.
@@ -1060,649 +1022,120 @@ LaTeX Info: Redefining \ttfamily on input line 1.
  [5
 
 
-])
+] [6])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [6]
-Overfull \hbox (7.68411pt too wide) in paragraph at lines 150--151
-\TU/KohinoorBangla(0)/m/n/12 সামরিক অভিযান\TU/TimesNewRoman(0)/m/n/12 , \TU/Koh
-inoorBangla(0)/m/n/12 পূর্ণাঙ্গ অবরোধ ঘোষণা\TU/TimesNewRoman(0)/m/n/12 , \TU/Ko
-hinoorBangla(0)/m/n/12 এবং অবকাঠামো ধ্বংসের ফলে বেসামরিক জনগণের জীবনযাত্রা
+ [7] [8] [9] [10] [11] [12]
+Overfull \hbox (29.62779pt too wide) in paragraph at lines 240--241
+[]\TU/TimesNewRoman(0)/m/n/10 (Pérez-López et al., 2025) \TU/KohinoorBangla(0)/
+m/n/10 এই গবেষণায় যুদ্ধ\TU/TimesNewRoman(0)/m/n/10 -\TU/KohinoorBangla(0)/m/n/1
+0 বিধ্বস্ত ফিলিস্তিনি শিশুদের মধ্যে কার্বাপেনেমাস\TU/TimesNewRoman(0)/m/n/10 -\
+TU/KohinoorBangla(0)/m/n/10 প্রডিউসিং এন্টারোব্যাকটেরিয়াসি
  []
 
-
-Overfull \hbox (8.6565pt too wide) in paragraph at lines 152--153
-[]\TU/KohinoorBangla(0)/m/n/12 এই প্রেক্ষাপটে \TU/TimesNewRoman(0)/m/n/12 “\TU/
-KohinoorBangla(0)/m/n/12 অনাহার\TU/TimesNewRoman(0)/m/n/12 ” \TU/KohinoorBangla
-(0)/m/n/12 কেবল একটি মানবিক সমস্যা নয়\TU/TimesNewRoman(0)/m/n/12 , \TU/Kohinoor
-Bangla(0)/m/n/12 বরং এটি একটি গুরুত্বপূর্ণ আইনি ও রাজনৈতিক
- []
-
-
-Overfull \hbox (10.11215pt too wide) in paragraph at lines 154--155
-[]\TU/KohinoorBangla(0)/m/n/12 আধুনিক আন্তর্জাতিক রাজনীতি ও সশস্ত্র সংঘাতের প্র
-কৃতি ক্রমাগত পরিবর্তিত হলেও যুদ্ধের সময় বেসামরিক
- []
-
-
-Overfull \hbox (2.64815pt too wide) in paragraph at lines 154--155
-\TU/KohinoorBangla(0)/m/n/12 হিসেবে ব্যবহার করা হচ্ছে। এই বাস্তবতায় অনাহার কেবল
- একটি মানবিক সংকট নয়\TU/TimesNewRoman(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/12 
-বরং একটি সুসংগঠিত
- []
-
-
-Overfull \hbox (0.72577pt too wide) in paragraph at lines 156--157
-[]\TU/KohinoorBangla(0)/m/n/12 আন্তর্জাতিক মানবিক আইন \TU/TimesNewRoman(0)/m/n/
-12 (International Humanitarian Law) \TU/KohinoorBangla(0)/m/n/12 স্পষ্টভাবে বেস
-ামরিক জনগণের বিরুদ্ধে
- []
-
-
-Overfull \hbox (19.48415pt too wide) in paragraph at lines 156--157
-\TU/KohinoorBangla(0)/m/n/12 অনাহারকে যুদ্ধের পদ্ধতি হিসেবে ব্যবহার নিষিদ্ধ করে
-ছে। জেনেভা কনভেনশন ও এর অতিরিক্ত প্রোটোকলসমূহে
- []
-
-
-Overfull \hbox (4.91214pt too wide) in paragraph at lines 160--161
-[]\TU/KohinoorBangla(0)/m/n/12 যদিও আন্তর্জাতিক আইন সব ধরনের সশস্ত্র সংঘাতে অনা
-হারকে নিষিদ্ধ করে\TU/TimesNewRoman(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/12 তথা
-পি আন্তর্জাতিক অপরাধ
- []
-
-
-Overfull \hbox (6.96014pt too wide) in paragraph at lines 160--161
-\TU/KohinoorBangla(0)/m/n/12 মূলত আন্তর্জাতিক সশস্ত্র সংঘাতের ক্ষেত্রে। এই সীমা
-বদ্ধতা আন্তর্জাতিক ফৌজদারি আইনে একটি গুরুত্বপূর্ণ
- []
-
-
-Overfull \hbox (15.14012pt too wide) in paragraph at lines 162--163
-\TU/KohinoorBangla(0)/m/n/12 উপস্থাপন করে এবং আন্তর্জাতিক মানবিক আইন\TU/TimesNe
-wRoman(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/12 আন্তর্জাতিক মানবাধিকার আইন ও আন
-্তর্জাতিক ফৌজদারি
- []
-
-[7]
-Overfull \hbox (10.22412pt too wide) in paragraph at lines 170--171
-\TU/KohinoorBangla(0)/m/n/12 অনাহারকে যুদ্ধপদ্ধতি হিসেবে নিষিদ্ধকারী বিধানগুলোর
- সঙ্গে কীভাবে সরাসরি সংঘর্ষে লিপ্ত হয়েছে। তৃতীয়ত\TU/TimesNewRoman(0)/m/n/12 ,
-
- []
-
-
-Overfull \hbox (1.84013pt too wide) in paragraph at lines 176--177
-\TU/KohinoorBangla(0)/m/n/12 চলমান সংঘাত এই প্রবণতার একটি গুরুত্বপূর্ণ উদাহরণ\T
-U/TimesNewRoman(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/12 যেখানে আন্তর্জাতিক সংস
-্থা\TU/TimesNewRoman(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/12 মানবাধিকার সংগঠন
- []
-
-
-Overfull \hbox (3.04413pt too wide) in paragraph at lines 178--179
-\TU/KohinoorBangla(0)/m/n/12 ব্যবহার নিষিদ্ধ করে এবং জেনেভা কনভেনশন ও এর অতিরিক
-্ত প্রোটোকলসমূহে এই নিষেধাজ্ঞা সুপ্রতিষ্ঠিত।
- []
-
-
-Overfull \hbox (6.90051pt too wide) in paragraph at lines 178--179
-\TU/KohinoorBangla(0)/m/n/12 একইসঙ্গে\TU/TimesNewRoman(0)/m/n/12 , \TU/Kohinoor
-Bangla(0)/m/n/12 আন্তর্জাতিক অপরাধ আদালতের রোম সংবিধিতে \TU/TimesNewRoman(0)/m/
-n/12 (Rome Statute) \TU/KohinoorBangla(0)/m/n/12 নির্দিষ্ট প্রেক্ষাপটে অনাহারকে
-
- []
-
-
-Overfull \hbox (25.2281pt too wide) in paragraph at lines 180--181
-\TU/KohinoorBangla(0)/m/n/12 আন্তর্জাতিক মানবাধিকার আইন এবং আন্তর্জাতিক ফৌজদারি
- আইন একত্রে প্রয়োগ করা হয়\TU/TimesNewRoman(0)/m/n/12 —\TU/KohinoorBangla(0)/m
-/n/12 তুলনামূলকভাবে
- []
-
-[8]
-Overfull \hbox (3.98015pt too wide) in paragraph at lines 184--185
-[]\TU/KohinoorBangla(0)/m/n/12 এই সমস্যার গুরুত্ব বহুমাত্রিক। প্রথমত\TU/TimesNe
-wRoman(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/12 এটি আন্তর্জাতিক মানবিক আইনের কা
-র্যকারিতা ও প্রয়োগযোগ্যতার
- []
-
-
-Overfull \hbox (5.03615pt too wide) in paragraph at lines 184--185
-\TU/KohinoorBangla(0)/m/n/12 প্রশ্নকে সামনে আনে। দ্বিতীয়ত\TU/TimesNewRoman(0)/
-m/n/12 , \TU/KohinoorBangla(0)/m/n/12 এটি যুদ্ধাপরাধের জবাবদিহিতা নিশ্চিত করার 
-ক্ষেত্রে আন্তর্জাতিক ফৌজদারি
- []
-
-
-Overfull \hbox (0.6161pt too wide) in paragraph at lines 188--189
-\TU/KohinoorBangla(0)/m/n/12 প্রবেশে বিধিনিষেধ\TU/TimesNewRoman(0)/m/n/12 , \TU
-/KohinoorBangla(0)/m/n/12 এবং জীবনধারণের জন্য অপরিহার্য অবকাঠামোর ধ্বংস\TU/Time
-sNewRoman(0)/m/n/12 —\TU/KohinoorBangla(0)/m/n/12 আন্তর্জাতিক মানবিক আইন
- []
-
-
-Overfull \hbox (6.02415pt too wide) in paragraph at lines 188--189
-\TU/KohinoorBangla(0)/m/n/12 ও আন্তর্জাতিক ফৌজদারি আইনের আলোকে কি বেসামরিক জনগণ
-ের বিরুদ্ধে অনাহারকে একটি পরিকল্পিত
- []
-
-
-Overfull \hbox (10.69612pt too wide) in paragraph at lines 196--198
-[]\TU/KohinoorBangla(0)/m/n/12 আন্তর্জাতিক মানবিক আইন\TU/TimesNewRoman(0)/m/n/1
-2 , \TU/KohinoorBangla(0)/m/n/12 আন্তর্জাতিক মানবাধিকার আইন এবং আন্তর্জাতিক ফৌজ
-দারি আইনের
- []
-
-
-Overfull \hbox (14.54424pt too wide) in paragraph at lines 200--202
-[]\TU/KohinoorBangla(0)/m/n/12 উক্ত কর্মকাণ্ডগুলোর সঙ্গে আন্তর্জাতিক মানবিক আইন
- \TU/TimesNewRoman(0)/m/n/12 (\TU/KohinoorBangla(0)/m/n/12 বিশেষত জেনেভা কনভেনশ
-ন ও এর অতিরিক্ত
- []
-
-
-Overfull \hbox (25.62021pt too wide) in paragraph at lines 200--202
-\TU/KohinoorBangla(0)/m/n/12 প্রোটোকলসমূহ\TU/TimesNewRoman(0)/m/n/12 ) \TU/Kohi
-noorBangla(0)/m/n/12 এবং আন্তর্জাতিক মানবাধিকার আইনের প্রাসঙ্গিক বিধানগুলোর তুল
-নামূলক বিশ্লেষণের
- []
-
-[9]
-Overfull \hbox (18.9961pt too wide) in paragraph at lines 202--203
-[]\TU/KohinoorBangla(0)/m/n/12 গাজায় বেসামরিক জনগণের ওপর এই কৌশলগুলোর ফলে সৃষ্
-ট মানবিক বিপর্যয়ের মাত্রা পরিসংখ্যানগত
- []
-
-
-Overfull \hbox (5.38013pt too wide) in paragraph at lines 209--210
-\TU/KohinoorBangla(0)/m/n/12 একটি সুস্পষ্ট কেস স্টাডির মাধ্যমে তাত্ত্বিক ও বিশ্
-লেষণাত্মকভাবে সমৃদ্ধ করবে। বিশেষত গাজা যুদ্ধের প্রেক্ষাপটে
- []
-
-
-Overfull \hbox (0.92413pt too wide) in paragraph at lines 209--210
-\TU/KohinoorBangla(0)/m/n/12 করবে। আইনগত বিশ্লেষণের পাশাপাশি মানবিক ও সামাজিক প
-্রভাবের মূল্যায়নের মাধ্যমে এটি একাডেমিক
- []
-
-
-Overfull \hbox (9.62015pt too wide) in paragraph at lines 213--214
-\TU/KohinoorBangla(0)/m/n/12 হিসেবে ব্যবহারের আইনি ফলাফল তুলে ধরার মাধ্যমে এটি 
-ভবিষ্যৎ নীতিনির্ধারণ ও আন্তর্জাতিক প্রতিক্রিয়ার
- []
-
-[10]
-Overfull \hbox (6.91245pt too wide) in paragraph at lines 227--228
-[]\TU/KohinoorBangla(0)/m/n/12 জাতিসংঘ শিশু তহবিল \TU/TimesNewRoman(0)/m/n/12 (
-UNICEF)-\TU/KohinoorBangla(0)/m/n/12 এর এপ্রিল ২০২৪ সালের প্রতিবেদন অনুযায়ী\TU/
-TimesNewRoman(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/12 গাজা সংঘাতে ৬৪\TU/TimesN
-ewRoman(0)/m/n/12 ,\TU/KohinoorBangla(0)/m/n/12 ০০০\TU/TimesNewRoman(0)/m/n/12 
--
- []
-
-
-Overfull \hbox (0.10025pt too wide) in paragraph at lines 227--228
-\TU/KohinoorBangla(0)/m/n/12 সতর্ক করেছে যে ৫ বছরের কম বয়সী শিশুদের ৩১\TU/Times
-NewRoman(0)/m/n/12 % \TU/KohinoorBangla(0)/m/n/12 তীব্র অপুষ্টিতে ভুগছে\TU/Time
-sNewRoman(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/12 যা বিশ্বে সর্বোচ্চ হার। \TU/
-TimesNewRoman(0)/m/n/12 UNICEF-
- []
-
-
-Overfull \hbox (5.69627pt too wide) in paragraph at lines 227--228
-\TU/KohinoorBangla(0)/m/n/12 এবং গণ\TU/TimesNewRoman(0)/m/n/12 -\TU/KohinoorBan
-gla(0)/m/n/12 অনাহার\TU/TimesNewRoman(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/12 
-যা একটি প্রজন্মের শারীরিক ও মানসিক বিকাশকে স্থায়ীভাবে ক্ষতিগ্রস্ত করছে \TU/Time
-sNewRoman(0)/m/n/12 (|   [],
- []
-
-
-Overfull \hbox (13.16046pt too wide) in paragraph at lines 231--232
-\TU/KohinoorBangla(0)/m/n/12 গ্রামবাসীদের বিতাড়িত করার মাধ্যমে যুদ্ধাপরাধ সংঘট
-িত করছে। সংস্থাটি এসব কর্মকাণ্ডকে \TU/TimesNewRoman(0)/m/n/12 ”\TU/KohinoorBang
-la(0)/m/n/12 স্পষ্ট যুদ্ধাপরাধ\TU/TimesNewRoman(0)/m/n/12 ”
- []
-
-
-Overfull \hbox (10.66414pt too wide) in paragraph at lines 233--234
-\TU/KohinoorBangla(0)/m/n/12 সুস্পষ্ট লঙ্ঘন। সংস্থাটি দাবি করে যে\TU/TimesNewRo
-man(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/12 ইসরাইল জেনেভা কনভেনশন ও রোম সংবিধি
- লঙ্ঘন করে হাসপাতাল\TU/TimesNewRoman(0)/m/n/12 ,
- []
-
-
-Overfull \hbox (27.21614pt too wide) in paragraph at lines 237--238
-[]\TU/KohinoorBangla(0)/m/n/12 ২০২৩ সালের নভেম্বরে প্রকাশিত এই গবেষণাপত্রে সতর্
-ক করা হয়েছে যে\TU/TimesNewRoman(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/12 চলমান 
-যুদ্ধ গাজায় অ্যান্টিমাইক্রোবিয়াল
- []
-
-
-Overfull \hbox (9.9324pt too wide) in paragraph at lines 237--238
-\TU/KohinoorBangla(0)/m/n/12 গবেষণায় উঠে এসেছে যুদ্ধ\TU/TimesNewRoman(0)/m/n/12
- -\TU/KohinoorBangla(0)/m/n/12 পূর্ব গাজার ৩৪\TU/TimesNewRoman(0)/m/n/12 % \TU/
-KohinoorBangla(0)/m/n/12 হাসপাতালের পানিতেই অ্যান্টিবায়োটিক\TU/TimesNewRoman(0)
-/m/n/12 -\TU/KohinoorBangla(0)/m/n/12 প্রতিরোধী ব্যাকটেরিয়া
- []
-
-[11]
-Overfull \hbox (4.48416pt too wide) in paragraph at lines 249--250
-\TU/KohinoorBangla(0)/m/n/12 নিষিদ্ধ করেছে\TU/TimesNewRoman(0)/m/n/12 , \TU/Koh
-inoorBangla(0)/m/n/12 আন্তর্জাতিক অপরাধ আদালতের রোম সংবিধিতে এটি কেবল আন্তর্জাত
-িক সশস্ত্র সংঘাতের
- []
-
-
-Overfull \hbox (14.43031pt too wide) in paragraph at lines 253--254
-\TU/KohinoorBangla(0)/m/n/12 ও গভীরভাবে পর্যবেক্ষণযোগ্য উদাহরণ হিসেবে নির্বাচন 
-করা হয়েছে। এই ঘটনা বিশ্লেষণের মাধ্যমে \TU/TimesNewRoman(0)/m/n/12 “\TU/Kohinoor
-Bangla(0)/m/n/12 অনাহারকে
- []
-
-
-Overfull \hbox (19.13829pt too wide) in paragraph at lines 253--254
-\TU/KohinoorBangla(0)/m/n/12 যুদ্ধপদ্ধতি হিসেবে ব্যবহার\TU/TimesNewRoman(0)/m/n
-/12 ” \TU/KohinoorBangla(0)/m/n/12 ধারণাটিকে বাস্তব প্রেক্ষাপটে বিশ্লেষণ করা হয়
-েছে\TU/TimesNewRoman(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/12 যা তাত্ত্বিক ও আই
-নি আলোচনাকে
- []
-
-[12]
-Overfull \hbox (2.29086pt too wide) in paragraph at lines 276--277
-\TU/KohinoorBangla(0)/m/n/12 সংগৃহীত নথিগুলো বিষয়ভিত্তিক বিশ্লেষণ \TU/TimesNewR
-oman(0)/m/n/12 (Thematic Analysis) \TU/KohinoorBangla(0)/m/n/12 এর মাধ্যমে বিশ্
-লেষণ করা হবে। বিশ্লেষণের
- []
-
-[13]
-Overfull \hbox (13.71614pt too wide) in paragraph at lines 319--320
-[]\TU/KohinoorBangla(0)/m/n/12 পঞ্চম অধ্যায়ে গবেষণার মূল ফলাফল সংক্ষিপ্তভাবে উপ
-স্থাপন করা হবে এবং আইনি\TU/TimesNewRoman(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/
-12 নীতিগত ও প্রাতিষ্ঠানিক
- []
-
-
-Overfull \hbox (12.95213pt too wide) in paragraph at lines 329--330
-[]\TU/KohinoorBangla(0)/m/n/12 প্রায় ছয় দশক ধরে গাজার উপর আরোপিত বিভিন্ন ধরনে
-র নিয়ন্ত্রণ\TU/TimesNewRoman(0)/m/n/12 —\TU/KohinoorBangla(0)/m/n/12 সামরিক শা
-সন\TU/TimesNewRoman(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/12 অর্থনৈতিক নিষেধাজ্
-ঞা\TU/TimesNewRoman(0)/m/n/12 ,
- []
-
-[14]
-Overfull \hbox (6.17638pt too wide) in paragraph at lines 339--341
-\TU/KohinoorBangla(0)/m/n/12 ইসরাইল সীমান্ত\TU/TimesNewRoman(0)/m/n/12 , \TU/Ko
-hinoorBangla(0)/m/n/12 সম্পদ \TU/TimesNewRoman(0)/m/n/12 (\TU/KohinoorBangla(0)
-/m/n/12 জল ও জমি\TU/TimesNewRoman(0)/m/n/12 ), \TU/KohinoorBangla(0)/m/n/12 জনস
-ংখ্যার নিবন্ধন ও গতিবিধি\TU/TimesNewRoman(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n
-/12 এবং অর্থনৈতিক কার্যক্রমের
- []
-
-
-Overfull \hbox (1.40024pt too wide) in paragraph at lines 341--342
-[]\TU/KohinoorBangla(0)/b/n/12 উপনিবেশ স্থাপনের সূত্রপাত\TU/TimesNewRoman(0)/b/
-n/12 : \TU/KohinoorBangla(0)/m/n/12 যদিও গাজায় ইহুদি বসতি পশ্চিম তীরের মতো ব্য
-াপক আকার নেয়নি\TU/TimesNewRoman(0)/m/n/12 ,
- []
-
+[13] [14] [15] [16]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 344.
+(Font)              <9> on input line 339.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 339.
 
-Overfull \hbox (305.6182pt too wide) in paragraph at lines 344--345
-[][][] [] [][][][][][] [] [][][] [] [][][][][][][][][][][][] [] [][][][][][] []
- [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] [] [][][][][]
+Overfull \hbox (152.60788pt too wide) in paragraph at lines 339--340
+[][][][][][] [] [][][] [] [][][][][][][][][][][][] [] [][][][][][] [] [][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][]
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$[] 
- []
-
-
-Overfull \hbox (16.67262pt too wide) in paragraph at lines 352--357
-[]\TU/KohinoorBangla(0)/b/n/12 প্রথম ইন্তিফাদা \TU/TimesNewRoman(0)/b/n/12 (\TU
-/KohinoorBangla(0)/b/n/12 ১৯৮৭\TU/TimesNewRoman(0)/b/n/12 -\TU/KohinoorBangla(0
-)/b/n/12 ১৯৯৩\TU/TimesNewRoman(0)/b/n/12 ): \TU/KohinoorBangla(0)/m/n/12 গাজা থ
-েকে শুরু হয়ে ফিলিস্তিনি জনগণের স্বতঃস্ফূর্ত গণ\TU/TimesNewRoman(0)/m/n/12 -\TU
-/KohinoorBangla(0)/m/n/12 অভ্যুত্থান।
- []
-
-
-Overfull \hbox (24.44456pt too wide) in paragraph at lines 357--361
-[]\TU/KohinoorBangla(0)/b/n/12 ওসলো চুক্তি \TU/TimesNewRoman(0)/b/n/12 (\TU/Koh
-inoorBangla(0)/b/n/12 ১৯৯৩\TU/TimesNewRoman(0)/b/n/12 -\TU/KohinoorBangla(0)/b/
-n/12 ১৯৯৫\TU/TimesNewRoman(0)/b/n/12 ): \TU/KohinoorBangla(0)/m/n/12 ইসরাইল ও প
-িএলও\TU/TimesNewRoman(0)/m/n/12 -\TU/KohinoorBangla(0)/m/n/12 র মধ্যে স্বাক্ষরি
-ত এই চুক্তি ফিলিস্তিনি স্বায়ত্তশাসনের
- []
-
-
-Overfull \hbox (5.27602pt too wide) in paragraph at lines 368--369
-\TU/KohinoorBangla(0)/b/n/10.95 সূত্র\TU/TimesNewRoman(0)/b/n/10.95 : \TU/Times
-NewRoman(0)/m/n/10.95 UN Commission on Human Rights, \TU/TimesNewRoman(0)/m/it/
-10.95 Resolution 1993/2 — Palestinian Rights During Intifada \TU/TimesNewRoman(
-0)/m/n/10.95 (\TU/KohinoorBangla(0)/m/n/10.95 ১৯৯৩\TU/TimesNewRoman(0)/m/n/10.9
-5 ).
- []
-
-[15]
-Overfull \hbox (1.35268pt too wide) in paragraph at lines 379--386
-\TU/KohinoorBangla(0)/m/n/12 গাজা \TU/TimesNewRoman(0)/m/n/12 ”\TU/KohinoorBang
-la(0)/m/n/12 ছেড়ে\TU/TimesNewRoman(0)/m/n/12 ” \TU/KohinoorBangla(0)/m/n/12 দে
-য়নি\TU/TimesNewRoman(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/12 বরং এটি একটি বন্
-ধ উন্মুক্ত\TU/TimesNewRoman(0)/m/n/12 -\TU/KohinoorBangla(0)/m/n/12 বায়ু কারাগ
-ারে পরিণত করে\TU/TimesNewRoman(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/12 যার দরজ
-া\TU/TimesNewRoman(0)/m/n/12 -\TU/KohinoorBangla(0)/m/n/12 জানালার
- []
-
-
-Overfull \hbox (1.10011pt too wide) in paragraph at lines 386--389
-\TU/KohinoorBangla(0)/m/n/12 ইসরাইল ও পশ্চিমা দেশগুলো হামাসের সাথে কাজ করতে অস্
-বীকার করে এবং অর্থনৈতিক নিষেধাজ্ঞা
- []
-
-
-Overfull \hbox (12.9973pt too wide) in paragraph at lines 391--392
-\TU/KohinoorBangla(0)/b/n/10.95 সূত্র\TU/TimesNewRoman(0)/b/n/10.95 : \TU/Times
-NewRoman(0)/m/n/10.95 B’Tselem, \TU/TimesNewRoman(0)/m/it/10.95 Annual Report 2
-007 \TU/TimesNewRoman(0)/m/n/10.95 (\TU/KohinoorBangla(0)/m/n/10.95 ২০০৭\TU/Tim
-esNewRoman(0)/m/n/10.95 ). []$[][][][][] [] [] [] [][][] [] [][][][][][][] [] [
-][][] [] [][][][][][][][] [] [][][][][][] [] [][][][][][] []
- []
-
-
-Overfull \hbox (5.64023pt too wide) in paragraph at lines 410--415
-\TU/KohinoorBangla(0)/m/n/12 কাজে লাগতে পারে\TU/TimesNewRoman(0)/m/n/12 ) \TU/K
-ohinoorBangla(0)/m/n/12 ব্যাপকভাবে প্রসারিত করে নির্মাণ সামগ্রী\TU/TimesNewRoma
-n(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/12 কৃষি উপকরণ\TU/TimesNewRoman(0)/m/n/1
-2 , \TU/KohinoorBangla(0)/m/n/12 জ্বালানি\TU/TimesNewRoman(0)/m/n/12 , \TU/Kohi
-noorBangla(0)/m/n/12 এমনকি
- []
-
-
-Overfull \hbox (2.05815pt too wide) in paragraph at lines 419--424
-[]\TU/KohinoorBangla(0)/b/n/12 আক্রমণাত্মক সামরিক অভিযান\TU/TimesNewRoman(0)/b/
-n/12 : \TU/KohinoorBangla(0)/m/n/12 বড় আকারের সামরিক অভিযান চালানো হয়\TU/Time
-sNewRoman(0)/m/n/12 : \TU/KohinoorBangla(0)/m/n/12 অপারেশন
- []
-
-
-Overfull \hbox (317.11569pt too wide) in paragraph at lines 433--434
-[] [] [][][] [] [][][][][][] [] [][][] [] [][][][][][][][][][][][] [] [][][][][
-][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] [] [][]
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$[] 
- []
-
-[16]
-Overfull \hbox (33.22052pt too wide) in paragraph at lines 448--455
-[][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][]$[]\TU/TimesNewRoman(0)/m/n/10.95 ;
- []
-
-
-Overfull \hbox (165.71265pt too wide) in paragraph at lines 448--455
-\TU/TimesNewRoman(0)/m/it/10.95 ian Law \TU/TimesNewRoman(0)/m/n/10.95 (\TU/Koh
-inoorBangla(0)/m/n/10.95 ২০২৩\TU/TimesNewRoman(0)/m/n/10.95 ). []$[][][][][] []
- [] [] [][][][][][] [] [][][][][][][][][] [] [][][] [] [][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][]$[] 
- []
-
-
-Overfull \hbox (10.04866pt too wide) in paragraph at lines 459--468
-\TU/TimesNewRoman(0)/m/it/10.95 Must Lift Siege of Gaza Immediately \TU/TimesNe
-wRoman(0)/m/n/10.95 (\TU/KohinoorBangla(0)/m/n/10.95 অক্টোবর ২০২৩\TU/TimesNewRo
-man(0)/m/n/10.95 ). []$[][][][][] [] [] [] [][][] [] [][][][][] [] [][][] [] []
-[] [] [][][][][][][][][][][][][][][] []
- []
-
-
-Overfull \hbox (8.03024pt too wide) in paragraph at lines 459--468
-[][][][] [] [][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[][][]$[]\TU/TimesNewRoman(0)/m/n/10.95 ; Lieber In-
- []
-
-
-Overfull \hbox (165.94649pt too wide) in paragraph at lines 459--468
-\TU/TimesNewRoman(0)/m/n/10.95 (\TU/KohinoorBangla(0)/m/n/10.95 অক্টোবর ২০২৩\TU
-/TimesNewRoman(0)/m/n/10.95 ). []$[][][][][] [] [] [] [][][][][][] [] [][][][][
-][][][][] [] [][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][]$[] 
- []
-
-
-Overfull \hbox (24.97177pt too wide) in paragraph at lines 472--480
-[][][][][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][]$[]\TU/TimesNewRoman(0)/m/n/10.95 ;
- []
-
-
-Overfull \hbox (234.2472pt too wide) in paragraph at lines 472--480
-\TU/TimesNewRoman(0)/m/it/10.95 Palestinians in Gaza \TU/TimesNewRoman(0)/m/n/1
-0.95 (\TU/KohinoorBangla(0)/m/n/10.95 ২০২৪\TU/TimesNewRoman(0)/m/n/10.95 ). []$
-[][][][][] [] [] [] [][][] [] [][][][][][][] [] [][][] [] [][] [] [][][][][][] 
-[] [][][][][][][][] [] [][][][] [] [][] [] [][][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$[] 
- []
-
-
-Overfull \hbox (228.67798pt too wide) in paragraph at lines 484--491
-[][][] [] [][][][][] [] [][][] [] [][][][][][][][][] [] [][][][][][][] [] [][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][]$[]\TU/TimesNewRoman(0)/m/n/10.95 ;
+][][][][][][][][][][][][][][][][][][][][][][][][]$[] 
  []
 
 [17]
-Overfull \hbox (12.00417pt too wide) in paragraph at lines 495--502
-\TU/KohinoorBangla(0)/m/n/12 মানবিক সহায়তা প্রবেশের ক্ষেত্রে কঠোর সীমাবদ্ধতা আ
-রোপ করা হয়\TU/TimesNewRoman(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/12 যেখানে সী
-মান্ত ক্রসিংগুলো সীমিতভাবে
- []
-
-
-Overfull \hbox (15.97534pt too wide) in paragraph at lines 495--502
-[][][] [] [][][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$[]\TU/TimesNewRom
-an(0)/m/n/10.95 ; World Food Programme
- []
-
-
-Overfull \hbox (213.43173pt too wide) in paragraph at lines 506--513
-[][][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+Overfull \hbox (152.60788pt too wide) in paragraph at lines 428--429
+[][][][][][] [] [][][] [] [][][][][][][][][][][][] [] [][][][][][] [] [][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][]
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][]$[]\TU/TimesNewRoman(0)/m/n/10.95 ;
- []
-
-
-Overfull \hbox (2.9441pt too wide) in paragraph at lines 506--513
-\TU/TimesNewRoman(0)/m/n/10.95 Médecins Sans Frontières (MSF), \TU/TimesNewRoma
-n(0)/m/it/10.95 Gaza: Health System Collapsing Amid Ongoing Bombardments \TU/Ti
-mesNewRoman(0)/m/n/10.95 (\TU/KohinoorBangla(0)/m/n/10.95 ২০২৪\TU/TimesNewRoman
-(0)/m/n/10.95 ).
- []
-
-
-Overfull \hbox (131.65573pt too wide) in paragraph at lines 517--525
-[][][] [] [][] [] [][][][][][][][][] [] [][][][][][][][][][][][][][][][][] [] [
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$[] 
+][][][][][][][][][][][][][][][][][][][][][][][][]$[] 
  []
 
 [18]
-Overfull \hbox (7.30812pt too wide) in paragraph at lines 537--541
-\TU/KohinoorBangla(0)/m/n/12 বিশাল অংশ দীর্ঘমেয়াদী খাদ্য সহায়তার উপর নির্ভরশী
-ল থাকবে। স্থানীয় উৎপাদন ব্যবস্থা পুনরুদ্ধার
+Overfull \hbox (22.3082pt too wide) in paragraph at lines 454--463
+[][][][][] [] [][][] [] [][] [] [][][][][][][][][][][][][][][] [] [][][][] [] [
+][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$[]\TU/
+TimesNewRoman(0)/m/n/9 ;
  []
 
 
-Overfull \hbox (2.60822pt too wide) in paragraph at lines 545--549
-[]\TU/KohinoorBangla(0)/b/n/12 স্বাস্থ্য ও পরিবেশগত দুর্যোগ\TU/TimesNewRoman(0)
-/b/n/12 : \TU/KohinoorBangla(0)/m/n/12 ধ্বংসস্তূপ\TU/TimesNewRoman(0)/m/n/12 , 
-\TU/KohinoorBangla(0)/m/n/12 অপচয় ব্যবস্থা ভেঙে পড়া এবং স্যানিটেশন ব্যবস্থার 
-অভাবের
- []
-
-
-Overfull \hbox (11.12204pt too wide) in paragraph at lines 554--555
-\TU/TimesNewRoman(0)/m/it/10.95 Review Committee Report \TU/TimesNewRoman(0)/m/
-n/10.95 (\TU/KohinoorBangla(0)/m/n/10.95 মার্চ ২০২৪\TU/TimesNewRoman(0)/m/n/10.
-95 ). []$[][][][][] [] [] [] [][][] [] [][][] [] [][][] [] [][][][][][][][][][]
-[] [] [][][][][][][][][][][][][][][][][][][][]$[];
- []
-
-
-Overfull \hbox (8.77043pt too wide) in paragraph at lines 554--555
-\TU/TimesNewRoman(0)/m/it/10.95 Malnutrition Analysis \TU/TimesNewRoman(0)/m/n/
-10.95 (\TU/KohinoorBangla(0)/m/n/10.95 ২০২৪\TU/TimesNewRoman(0)/m/n/10.95 ). []
-$[][][][][] [] [] [] [][][] [] [][][][][][][] [] [][][] [] [][][][][][][][][][]
-[][][][][][][][][][][][] [] [][][][][][][][][][][][] []
- []
-
-
-Overfull \hbox (26.3664pt too wide) in paragraph at lines 572--582
-\TU/KohinoorBangla(0)/m/n/12 এই অধ্যায়ের লক্ষ্য গবেষণার কেন্দ্রীয় প্রশ্নের উত
-্তর অনুসন্ধান করা\TU/TimesNewRoman(0)/b/n/12 : \TU/TimesNewRoman(0)/m/n/12 ”\TU
-/KohinoorBangla(0)/m/n/12 গাজা যুদ্ধে ইসরাইল কীভাবে পরিকল্পিতভাবে
+Overfull \hbox (61.51942pt too wide) in paragraph at lines 454--463
+\TU/TimesNewRoman(0)/m/n/9 (\TU/KohinoorBangla(0)/m/n/9 অক্টোবর ২০২৩\TU/TimesNe
+wRoman(0)/m/n/9 ). []$[][][][][] [] [] [] [][][][][][] [] [][][][][][][][][] []
+ [][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$[]
+ 
  []
 
 [19]
-Overfull \hbox (7.89452pt too wide) in paragraph at lines 584--584
-[]\TU/KohinoorBangla(0)/b/n/14.4 তাত্ত্বিক কাঠামো\TU/TimesNewRoman(0)/b/n/14.4 
-: \TU/KohinoorBangla(0)/b/n/14.4 রাজনৈতিক অপরাধ ও কাঠামোগত সহিংসতা হিসেবে অনাহা
-র 
+Overfull \hbox (6.24084pt too wide) in paragraph at lines 479--486
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][]$[]\TU/TimesNewRoman(0)/m/n/9 ; UN OCHA,
  []
 
 
-Overfull \hbox (9.13216pt too wide) in paragraph at lines 586--592
-\TU/KohinoorBangla(0)/m/n/12 বিবেচনা করে\TU/TimesNewRoman(0)/m/n/12 , \TU/Kohin
-oorBangla(0)/m/n/12 যেখানে রাষ্ট্র বা কর্তৃত্বশীল শক্তি সচেতন নীতি ও সিদ্ধান্তে
-র মাধ্যমে খাদ্য\TU/TimesNewRoman(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/12 পানি 
-ও জীবনধারণের
- []
-
-
-Overfull \hbox (15.81247pt too wide) in paragraph at lines 632--636
-\TU/KohinoorBangla(0)/m/n/12 মাধ্যমে সংঘটিত হয়। ফলে অনাহার একটি \TU/TimesNewRom
-an(0)/m/n/12 “\TU/KohinoorBangla(0)/m/n/12 নীরব সহিংসতা\TU/TimesNewRoman(0)/m/n
-/12 ” \TU/KohinoorBangla(0)/m/n/12 হিসেবে কাজ করে\TU/TimesNewRoman(0)/m/n/12 , 
-\TU/KohinoorBangla(0)/m/n/12 যা আন্তর্জাতিক মানবাধিকার
+Overfull \hbox (277.29318pt too wide) in paragraph at lines 501--508
+\TU/TimesNewRoman(0)/m/n/9 (\TU/KohinoorBangla(0)/m/n/9 নভেম্বর ২০২৩\TU/TimesNe
+wRoman(0)/m/n/9 ). []$[][][][][] [] [] [] [][][] [] [][][] [] [][][] [] [][][][
+] [] [][][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][]$[];
  []
 
 [20]
-Overfull \hbox (12.22241pt too wide) in paragraph at lines 674--680
-[]\TU/KohinoorBangla(0)/b/n/12 ঘোষণা\TU/TimesNewRoman(0)/b/n/12 : \TU/KohinoorB
-angla(0)/m/n/12 ২০২৩ সালের ৯ অক্টোবর\TU/TimesNewRoman(0)/m/n/12 , \TU/KohinoorB
-angla(0)/m/n/12 ইসরাইলের প্রতিরক্ষামন্ত্রী ইয়োয়াভ গ্যালান্ট গাজার উপর \TU/Tim
-esNewRoman(0)/m/n/12 ”\TU/KohinoorBangla(0)/m/n/12 সম্পূর্ণ
+Overfull \hbox (3.45143pt too wide) in paragraph at lines 536--540
+\TU/KohinoorBangla(0)/m/n/10 শক্তিগুলোর মধ্যে কোন সম্মতি না থাকায়\TU/TimesNewR
+oman(0)/m/n/10 , \TU/KohinoorBangla(0)/m/n/10 স্থিতাবস্থা একটি অস্থায়ী কিন্তু 
+স্থায়ী সামরিক\TU/TimesNewRoman(0)/m/n/10 -\TU/KohinoorBangla(0)/m/n/10 নিয়ন্ত
+্রিত অবস্থায় আটকে
  []
 
+[21] [22] [23]
 File: kerem_shalom_blockade.jpg Graphic file (type bmp)
 <kerem_shalom_blockade.jpg>
 
+
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Overfull \hbox (10.20894pt too wide) in paragraph at lines 700--701
-\TU/KohinoorBangla(0)/b/n/10.95 সূত্র\TU/TimesNewRoman(0)/b/n/10.95 : \TU/Times
-NewRoman(0)/m/n/10.95 Al Jazeera, \TU/TimesNewRoman(0)/m/it/10.95 Israel Announ
-ces Total Blockade on Gaza \TU/TimesNewRoman(0)/m/n/10.95 (\TU/KohinoorBangla(0
-)/m/n/10.95 ৯ অক্টোবর ২০২৩\TU/TimesNewRoman(0)/m/n/10.95 ). []$[][][][][] [] []
- [] [][][] [] [][][][][][][][][] []
- []
-
-
-Overfull \hbox (11.8218pt too wide) in paragraph at lines 700--701
-[][][] [] [][][][] [] [][][][] [] [][] [] [] [] [][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$[]\TU/TimesNewRoman(0
-)/m/n/10.95 ; Human Rights Watch, \TU/TimesNewRoman(0)/m/it/10.95 Gaza:
- []
-
-
-Overfull \hbox (1.59703pt too wide) in paragraph at lines 700--701
-\TU/TimesNewRoman(0)/m/it/10.95 Unlawful Israeli Hospital Attacks Worsen Health
- Crisis \TU/TimesNewRoman(0)/m/n/10.95 (\TU/KohinoorBangla(0)/m/n/10.95 নভেম্বর
- ২০২৩\TU/TimesNewRoman(0)/m/n/10.95 ). []$[][][][][] [] [] [] [][][] [] [][][] 
-[] [][][] [] [][][][] []
- []
-
-
-Overfull \hbox (6.32697pt too wide) in paragraph at lines 700--701
-[][][][] [] [][] [] [][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[]$[]\TU/TimesNewRoman(0)/m/n/10.95 ; Wikimedia
- []
-
-[21]
-Overfull \hbox (11.39624pt too wide) in paragraph at lines 717--720
-[]\TU/KohinoorBangla(0)/b/n/12 মৎস্যজীবন ও প্রোটিন উত্স\TU/TimesNewRoman(0)/b/n
-/12 : \TU/KohinoorBangla(0)/m/n/12 সমুদ্র থেকে মাছ ধরার কার্যক্রম ও মৎস্যজীবিদে
-র কার্যক্রমও কঠোরভাবে
- []
-
+[24]
 File: gaza_bulldozer_farm.jpg Graphic file (type bmp)
 <gaza_bulldozer_farm.jpg>
 
+
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (217.08905pt too wide) in paragraph at lines 730--731
-\TU/TimesNewRoman(0)/m/it/10.95 Cropland \TU/TimesNewRoman(0)/m/n/10.95 (\TU/Ko
-hinoorBangla(0)/m/n/10.95 ২০২৪\TU/TimesNewRoman(0)/m/n/10.95 ). []$[][][][][] [
-] [] [] [][][] [] [][][] [] [][][] [] [][][][][][][][] [] [][][][] [] [][][][][
-][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] []
+Overfull \hbox (65.10252pt too wide) in paragraph at lines 725--726
+\TU/TimesNewRoman(0)/m/n/9 (\TU/KohinoorBangla(0)/m/n/9 ২০২৪\TU/TimesNewRoman(0
+)/m/n/9 ). []$[][][][][] [] [] [] [][][] [] [][][] [] [][][] [] [][][][][][][][
+] [] [][][][] [] [][][][][][][] [] [][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][] []
  []
 
-
-Overfull \hbox (5.37221pt too wide) in paragraph at lines 737--741
-[]\TU/KohinoorBangla(0)/b/n/12 পানি ও স্যানিটেশন\TU/TimesNewRoman(0)/b/n/12 : \
-TU/KohinoorBangla(0)/m/n/12 অবরোধ ও সংঘাতের কারণে পানির বিশুদ্ধতা ও সরবরাহ ব্যব
-স্থা মারাত্মকভাবে
- []
-
-[22]
-Overfull \hbox (7.96162pt too wide) in paragraph at lines 745--748
-[]\TU/KohinoorBangla(0)/b/n/12 স্বাস্থ্য ব্যবস্থা পঙ্গুত্ব\TU/TimesNewRoman(0)/
-b/n/12 : \TU/KohinoorBangla(0)/m/n/12 বিশ্ব স্বাস্থ\TU/TimesNewRoman(0)/m/n/12 
-‌\TU/KohinoorBangla(0)/m/n/12 ্য সংস্থা \TU/TimesNewRoman(0)/m/n/12 (WHO) \TU/K
-ohinoorBangla(0)/m/n/12 জানায় যে অনাহার পরিস্থিতি ও সহায়তা সীমাবদ্ধতার
- []
-
+[25]
 File: gaza_water_crisis.jpg Graphic file (type bmp)
 <gaza_water_crisis.jpg>
 
+
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (125.2005pt too wide) in paragraph at lines 759--760
-[][][] [] [][][] [] [][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][
-] [] [][][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$[]\T
-U/TimesNewRoman(0)/m/n/10.95 ;
+Overfull \hbox (5.83754pt too wide) in paragraph at lines 754--755
+[][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][] [] [][][][] [] [][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][]$[]\TU/TimesNewRoman(0)/m
+/n/9 ; UN-
  []
 
-
-Overfull \hbox (11.5099pt too wide) in paragraph at lines 759--760
-\TU/TimesNewRoman(0)/m/n/10.95 UNRWA, \TU/TimesNewRoman(0)/m/it/10.95 Water Cri
-sis in Gaza \TU/TimesNewRoman(0)/m/n/10.95 (\TU/KohinoorBangla(0)/m/n/10.95 ফাদ
-ি থাবেত\TU/TimesNewRoman(0)/m/n/10.95 , CC BY-SA 3.0 IGO, \TU/KohinoorBangla(0)
-/m/n/10.95 ২০২৫\TU/TimesNewRoman(0)/m/n/10.95 ). []$[][][][][] [] [] [] [][][][
-][][][] [] [][][][][][][][][] []
- []
-
-
-Overfull \hbox (1.90022pt too wide) in paragraph at lines 772--776
-[]\TU/KohinoorBangla(0)/b/n/12 অনুমোদন ব্যবস্থার জটিলতা\TU/TimesNewRoman(0)/b/n
-/12 : \TU/KohinoorBangla(0)/m/n/12 ত্রাণসম্ভার তালিকায় সরকারি বা প্রশাসনিক জটিল
-তা তৈরির কারণে
- []
-
-[23]
+[26]
 File: gaza_aid_blockade.png Graphic file (type bmp)
 <gaza_aid_blockade.png>
 
@@ -1710,655 +1143,178 @@ File: gaza_aid_blockade.png Graphic file (type bmp)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (12.432pt too wide) in paragraph at lines 789--790
-[][][][] [] [][] [] [][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][]$[] 
+Overfull \hbox (224.12294pt too wide) in paragraph at lines 784--785
+\TU/TimesNewRoman(0)/m/it/9 Gaza Hunger Crisis Deepens \TU/TimesNewRoman(0)/m/n
+/9 (\TU/KohinoorBangla(0)/m/n/9 ২০২৪\TU/TimesNewRoman(0)/m/n/9 ). []$[][][][][]
+ [] [] [] [][][] [] [][][][][][][][][] [] [][][] [] [][][][] [] [][][][] [] [][
+] [] [][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][]$[] 
  []
 
-
-Overfull \hbox (6.03146pt too wide) in paragraph at lines 794--801
-\TU/KohinoorBangla(0)/m/n/12 আইন এখানে কেবল নৈতিক নির্দেশনা নয়\TU/TimesNewRoman
-(0)/m/n/12 ; \TU/KohinoorBangla(0)/m/n/12 বরং বাধ্যতামূলক আইনি কাঠামো প্রদান কর
-ে\TU/TimesNewRoman(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/12 যা সংঘাতকালীন
+[27] [28] [29]
+Overfull \hbox (2.1615pt too wide) in paragraph at lines 913--918
+\TU/KohinoorBangla(0)/m/n/10 জীবনধারণের সক্ষমতাকে পদ্ধতিগতভাবে দুর্বল করার একটি
+ সুস্পষ্ট কৌশল নির্দেশ করে। তুলনামূলকভাবে\TU/TimesNewRoman(0)/m/n/10 ,
  []
 
-
-Overfull \hbox (0.39632pt too wide) in paragraph at lines 807--816
-[]\TU/KohinoorBangla(0)/b/n/12 সমষ্টিগত শাস্তির নিষেধাজ্ঞাঃ \TU/KohinoorBangla(
-0)/m/n/12 জেনেভা কনভেনশন চতুর্থ \TU/TimesNewRoman(0)/m/n/12 (\TU/KohinoorBangla
-(0)/m/n/12 ১৯৪৯\TU/TimesNewRoman(0)/m/n/12 ), \TU/KohinoorBangla(0)/m/n/12 অনুচ
-্ছেদ ৩৩ স্পষ্টভাবে ঘোষণা
- []
-
-[24]
-Overfull \hbox (16.52013pt too wide) in paragraph at lines 816--824
-[]\TU/KohinoorBangla(0)/b/n/12 বেসামরিক জনগণের জন্য অপরিহার্য বস্তুর সুরক্ষাঃ \
-TU/KohinoorBangla(0)/m/n/12 জেনেভা কনভেনশনসমূহের অতিরিক্ত প্রোটোকল
- []
-
-
-Overfull \hbox (5.60025pt too wide) in paragraph at lines 841--844
-\TU/KohinoorBangla(0)/m/n/12 বিভিন্ন বিশেষ র\TU/TimesNewRoman(0)/m/n/12 ‌\TU/Ko
-hinoorBangla(0)/m/n/12 ্যাপোর্টিয়ার এই পরিস্থিতিকে \TU/TimesNewRoman(0)/m/n/12 
-“man-made humanitarian catastrophe” \TU/KohinoorBangla(0)/m/n/12 হিসেবে আখ্যায়ি
-ত
- []
-
-
-Overfull \hbox (2.88847pt too wide) in paragraph at lines 849--853
-\TU/KohinoorBangla(0)/m/n/12 সক্ষমতা দুর্বল করতে \TU/TimesNewRoman(0)/m/n/12 “\
-TU/KohinoorBangla(0)/m/n/12 প্রয়োজনীয়\TU/TimesNewRoman(0)/m/n/12 ”\TU/KohinoorB
-angla(0)/m/n/12 । দ্বিতীয়ত\TU/TimesNewRoman(0)/m/n/12 , \TU/KohinoorBangla(0)/m
-/n/12 তারা হামাসের বেসামরিক স্থাপনা ব্যবহারকে জীবনরক্ষাকারী
- []
-
-[25]
-Overfull \hbox (19.82863pt too wide) in paragraph at lines 854--866
-[]\TU/KohinoorBangla(0)/m/n/12 এর খণ্ডন নিম্নরূপ\TU/TimesNewRoman(0)/m/n/12 : \
-TU/KohinoorBangla(0)/m/n/12 আইনের আনুপাতিকতা \TU/TimesNewRoman(0)/m/n/12 (Propo
-rtionality) \TU/KohinoorBangla(0)/m/n/12 ও বৈষম্য \TU/TimesNewRoman(0)/m/n/12 (
-Distinction) \TU/KohinoorBangla(0)/m/n/12 নীতির আলোকে একটি
- []
-
-
-Overfull \hbox (7.84813pt too wide) in paragraph at lines 854--866
-\TU/KohinoorBangla(0)/m/n/12 একটি সমষ্টিগত শাস্তি\TU/TimesNewRoman(0)/m/n/12 , 
-\TU/KohinoorBangla(0)/m/n/12 যা জেনেভা কনভেনশন চতুর্থের অনুচ্ছেদ ৩৩ দ্বারা সম্প
-ূর্ণ নিষিদ্ধ। এছাড়া\TU/TimesNewRoman(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/12 দ
-খলদার
- []
-
-
-Overfull \hbox (19.43431pt too wide) in paragraph at lines 881--886
-\TU/KohinoorBangla(0)/m/n/12 পানি\TU/TimesNewRoman(0)/m/n/12 , \TU/KohinoorBang
-la(0)/m/n/12 গ্যাস\TU/TimesNewRoman(0)/m/n/12 —\TU/KohinoorBangla(0)/m/n/12 সবক
-িছু বন্ধ করে দেওয়া হবে\TU/TimesNewRoman(0)/m/n/12 ” \TU/KohinoorBangla(0)/m/n/
-12 ঘোষণা আন্তর্জাতিক আইনের আলোকে অত্যন্ত তাৎপর্যপূর্ণ।
- []
-
-
-Overfull \hbox (3.42087pt too wide) in paragraph at lines 889--894
-[]\TU/KohinoorBangla(0)/m/n/12 এ ধরনের বক্তব্য আন্তর্জাতিক বিচারিক অনুশীলনে \TU
-/TimesNewRoman(0)/m/n/12 (jurisprudence) \TU/KohinoorBangla(0)/m/n/12 গুরুত্বপূ
-র্ণ প্রমাণ হিসেবে
- []
-
-
-Overfull \hbox (4.37613pt too wide) in paragraph at lines 918--923
-\TU/KohinoorBangla(0)/m/n/12 জনগণের জীবনধারণের সক্ষমতাকে পদ্ধতিগতভাবে দুর্বল কর
-ার একটি সুস্পষ্ট কৌশল নির্দেশ
- []
-
-
-Overfull \hbox (0.7245pt too wide) in paragraph at lines 918--923
-\TU/KohinoorBangla(0)/m/n/12 করে। তুলনামূলকভাবে\TU/TimesNewRoman(0)/m/n/12 , Ye
-men Civil War-\TU/KohinoorBangla(0)/m/n/12 এ অবরোধ ও খাদ্য সরবরাহে বাধা সৃষ্টির
- মাধ্যমে
- []
-
-[26]
-Overfull \hbox (8.91624pt too wide) in paragraph at lines 944--952
-[]\TU/KohinoorBangla(0)/b/n/12 আইনি প্রেক্ষাপট\TU/TimesNewRoman(0)/b/n/12 : \TU
-/KohinoorBangla(0)/m/n/12 জেনেভা কনভেনশন এর অধীনে\TU/TimesNewRoman(0)/m/n/12 , 
-\TU/KohinoorBangla(0)/m/n/12 বিশেষত অনুচ্ছেদ ৫৫ ও ৫৬ অনুযায়ী\TU/TimesNewRoman(
-0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/12 দখলদার
- []
-
-
-Overfull \hbox (24.34431pt too wide) in paragraph at lines 944--952
-\TU/TimesNewRoman(0)/m/n/12 Nuremberg Trials-\TU/KohinoorBangla(0)/m/n/12 এ মান
-বিক দায়িত্ব লঙ্ঘনের ক্ষেত্রে পরিকল্পিত অবহেলাকে অপরাধমূলক অভিপ্রায়ের
- []
-
-
-Overfull \hbox (3.46135pt too wide) in paragraph at lines 954--962
-\TU/KohinoorBangla(0)/m/n/12 তৈরি করে। আন্তর্জাতিক ফৌজদারি আইনে এই ধরনের সমন্বি
-ত বিশ্লেষণ \TU/TimesNewRoman(0)/m/n/12 (cumulative approach) \TU/KohinoorBangla
-(0)/m/n/12 অভিপ্রায়
- []
-
-[27]
+[30]
 File: gaza_child_malnutrition.jpg Graphic file (type bmp)
 <gaza_child_malnutrition.jpg>
 File: gaza_children_displaced.jpg Graphic file (type bmp)
 <gaza_children_displaced.jpg>
 
-Overfull \hbox (41.98462pt too wide) in paragraph at lines 1020--1021
-\TU/KohinoorBangla(0)/m/n/10.95 ২০২৪\TU/TimesNewRoman(0)/m/n/10.95 , CC BY-SA 3
-.0 IGO). []$[][][][][] [] [] [] [][][][][][][] [] [][][][][][][][][] [] [][][] 
-[] [][][][] [] [][][][] [] [] [] [][][][][][][][][][][][] [] [][][][][][][][][]
-[][] []
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (4.7256pt too wide) in paragraph at lines 1015--1016
+[][][][] [] [][][] [] [][] [] [][][][][][][][][][][][] [] [][][] [] [][][][] []
+ [][] [] [][][][][][][][][] [] [][][] [] [][] [] [][][] [] [][][] [] [][] [] []
+[][][] [] [][][]$[]\TU/TimesNewRoman(0)/m/n/9 ; UNRWA/Ashraf Amra, \TU/TimesNew
+Roman(0)/m/it/9 Dis-
  []
 
 
-Overfull \hbox (7.432pt too wide) in paragraph at lines 1020--1021
-[][][][] [][] [][][][][] [] [][][] [] [][][][] [] [][][] [] [][] [] [][][][][][
-][][][][][][] [] [][][] [] [][][][] [] [][] [] [][][][][][][][][] [] [][][] [] 
-[][] [] [][][] [] [][][] [] [][] []
+Overfull \hbox (10.5827pt too wide) in paragraph at lines 1015--1016
+[][][] [] [][][][] [] [][][][] [] [][][][][][][][][] [] [][][][][][][][] [] [][
+][] [] [][] [] [][][] [] [][][][][][] [] [][] [] [][][][][] [] [][][][][][][][]
+[] [] [][][][] [] [][] [] [][][][][][][][] [] [][][][] [][] [][][][][] []
  []
 
-
-Overfull \hbox (3.09865pt too wide) in paragraph at lines 1020--1021
-\TU/TimesNewRoman(0)/m/n/10.95 BY-SA 3.0 IGO). []$[][][][][] [] [] [] [][][][][
-][][] [] [][][][][][][][][] [] [][][] [] [][][][] [] [][][][] [] [][][][][][][]
-[][] [] [][][][][][][][] [] [][][] [] [][] []
- []
-
-[28]
+[31]
 File: gaza_woman_children.jpg Graphic file (type bmp)
 <gaza_woman_children.jpg>
 File: gaza_newborn_killed.jpg Graphic file (type bmp)
 <gaza_newborn_killed.jpg>
 
-Overfull \hbox (4.74411pt too wide) in paragraph at lines 1057--1071
-[]\TU/KohinoorBangla(0)/m/n/12 গাজায় অনাহার ও খাদ্য নিরাপত্তার ধসের ফলে গর্ভবতী
- ও স্তন্যদানকারী মায়েদের ওপর মারাত্মক বিপজ্জনক
- []
 
-[29]
-Overfull \hbox (1.43227pt too wide) in paragraph at lines 1093--1103
-\TU/KohinoorBangla(0)/m/n/12 গাজায় অনাহার\TU/TimesNewRoman(0)/m/n/12 -\TU/Kohin
-oorBangla(0)/m/n/12 কৌশল ও অবরোধের প্রভাবে বয়স্ক\TU/TimesNewRoman(0)/m/n/12 , \
-TU/KohinoorBangla(0)/m/n/12 প্রতিবন্ধী ও অন্যান্য দুর্বল জনগোষ্ঠী সবচেয়ে মারাত্
-মক
- []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
+[32] [33]
 File: media/media/image6.jpeg Graphic file (type bmp)
 <media/media/image6.jpeg>
 
-Overfull \hbox (16.00774pt too wide) in paragraph at lines 1110--1111
+Overfull \hbox (16.00774pt too wide) in paragraph at lines 1105--1106
  [][] 
  []
 
 File: media/media/image7.png Graphic file (type bmp)
 <media/media/image7.png>
 
-Overfull \hbox (15.45862pt too wide) in paragraph at lines 1112--1113
+Overfull \hbox (15.45862pt too wide) in paragraph at lines 1107--1108
  [][] 
  []
 
-[30]
 File: media/media/image8.jpg Graphic file (type bmp)
 <media/media/image8.jpg>
 
-Overfull \hbox (30.9548pt too wide) in paragraph at lines 1145--1146
+Overfull \hbox (30.9548pt too wide) in paragraph at lines 1140--1141
 [][]  
  []
 
 File: media/media/image9.jpg Graphic file (type bmp)
 <media/media/image9.jpg>
 
-Overfull \hbox (30.9548pt too wide) in paragraph at lines 1147--1148
+Overfull \hbox (30.9548pt too wide) in paragraph at lines 1142--1143
 [][]  
  []
 
-
-Overfull \hbox (10.08815pt too wide) in paragraph at lines 1158--1182
-\TU/KohinoorBangla(0)/m/n/12 ক্ষতিগ্রস্ত বা ধ্বংস হয়ে গেছে এবং বেশ কিছু হাসপাতা
-ল\TU/TimesNewRoman(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/12 যেমন কামাল আদওয়ান ও
- ইন্দোনেশিয়ান হাসপাতাল\TU/TimesNewRoman(0)/m/n/12 ,
+[34] [35] [36] [37] [38] [39]
+Overfull \hbox (0.24153pt too wide) in paragraph at lines 1400--1406
+[]\TU/KohinoorBangla(0)/m/n/10 একইভাবে\TU/TimesNewRoman(0)/m/n/10 , \TU/Kohinoo
+rBangla(0)/m/n/10 জাতিসংঘের মানবাধিকার বিষয়ক হাইকমিশনার ঠড়ষশবৎ ঞহৃৎশ গাজায় চলমা
+ন পরিস্থিতিকে আন্তর্জাতিক
  []
 
-
-Overfull \hbox (26.13333pt too wide) in paragraph at lines 1158--1182
-\TU/KohinoorBangla(0)/m/n/12 পেশাগত কাজকে অসম্ভাব্য পরিস্থিতিতে ঠেলে দিয়েছে। \T
-U/TimesNewRoman(0)/m/n/12 WHO \TU/KohinoorBangla(0)/m/n/12 পর্যবেক্ষণ জানিয়েছে 
-যে এই ধ্বংসের ধারাবাহিকতায়
- []
-
-[31]
-Overfull \hbox (6.31216pt too wide) in paragraph at lines 1186--1207
-\TU/KohinoorBangla(0)/m/n/12 দেয়। একই সঙ্গে ধুলো\TU/TimesNewRoman(0)/m/n/12 , \
-TU/KohinoorBangla(0)/m/n/12 দূষণ\TU/TimesNewRoman(0)/m/n/12 , \TU/KohinoorBangl
-a(0)/m/n/12 ঠান্ডা আবহাওয়া ও ভিড়ে বসবাসের কারণে শ্বাসতন্ত্রের সংক্রমণ\TU/TimesN
-ewRoman(0)/m/n/12 —\TU/KohinoorBangla(0)/m/n/12 নিউমোনিয়া
- []
-
-
-Overfull \hbox (0.24014pt too wide) in paragraph at lines 1214--1236
-\TU/KohinoorBangla(0)/m/n/12 হয়েছে এবং বহু শিশু পিতামাতা বা অভিভাবক হারিয়েছে\TU
-/TimesNewRoman(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/12 ফলে পরিবার নামক মৌলিক স
-ামাজিক ইউনিটের
- []
-
-
-Overfull \hbox (6.52826pt too wide) in paragraph at lines 1214--1236
-\TU/KohinoorBangla(0)/m/n/12 প্রতিযোগিতার কারণে ভাঙাচোরা হয়ে পড়ছে\TU/TimesNewRo
-man(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/12 এবং ঘর\TU/TimesNewRoman(0)/m/n/12 
--\TU/KohinoorBangla(0)/m/n/12 বাড়ি\TU/TimesNewRoman(0)/m/n/12 , \TU/KohinoorBan
-gla(0)/m/n/12 বাজার ও সামাজিক স্থানগুলোর ধ্বংস সামাজিক
- []
-
-[32]
-Overfull \hbox (1.28413pt too wide) in paragraph at lines 1240--1260
-\TU/KohinoorBangla(0)/m/n/12 কার্যত ভেঙে পড়েছে\TU/TimesNewRoman(0)/b/n/12 , \TU
-/KohinoorBangla(0)/m/n/12 যেখানে উৎপাদন\TU/TimesNewRoman(0)/m/n/12 , \TU/Kohino
-orBangla(0)/m/n/12 কর্মসংস্থান ও বাজার\TU/TimesNewRoman(0)/m/n/12 —\TU/Kohinoor
-Bangla(0)/m/n/12 এই তিনটি স্তম্ভই একযোগে ধ্বংসপ্রাপ্ত হয়েছে।
- []
-
-
-Overfull \hbox (17.27254pt too wide) in paragraph at lines 1264--1285
-\TU/TimesNewRoman(0)/m/n/12 (\TU/KohinoorBangla(0)/m/n/12 ২০২৫\TU/TimesNewRoman
-(0)/m/n/12 ) \TU/KohinoorBangla(0)/m/n/12 অনুসারে\TU/TimesNewRoman(0)/m/n/12 , 
-\TU/KohinoorBangla(0)/m/n/12 গাজার চলমান সংঘাত \TU/TimesNewRoman(0)/m/n/12 (\TU
-/KohinoorBangla(0)/m/n/12 ২০২৩ অক্টোবর থেকে\TU/TimesNewRoman(0)/m/n/12 ) \TU/Ko
-hinoorBangla(0)/m/n/12 জনগণের মানসিক স্বাস্থ্য ও সাইকোসোশ্যাল
- []
-
-[33]
-Overfull \hbox (12.74815pt too wide) in paragraph at lines 1323--1338
-\TU/KohinoorBangla(0)/m/n/12 কেবল আর্থিক সহায়তাই নয়\TU/TimesNewRoman(0)/m/n/12 
-, \TU/KohinoorBangla(0)/m/n/12 বরং রাজনৈতিক সমাধান ও প্রশাসনিক কাঠামোর দীর্ঘমেয়
-াদী সংস্কার প্রয়োজন। 
- []
-
-
-Overfull \hbox (3.90042pt too wide) in paragraph at lines 1341--1346
-\TU/KohinoorBangla(0)/m/n/12 উপরে আলোচিত বিশ্লেষণ থেকে এটি স্পষ্ট যে\TU/TimesNe
-wRoman(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/12 ২০২৩\TU/TimesNewRoman(0)/m/n/12
- -\TU/KohinoorBangla(0)/m/n/12 ২০২৫ সালের গাজা যুদ্ধে ইসরাইলের গৃহীত \TU/TimesN
-ewRoman(0)/m/n/12 ‘\TU/KohinoorBangla(0)/m/n/12 অনাহার\TU/TimesNewRoman(0)/m/n/
-12 -
- []
-
-[34]
-Overfull \hbox (15.59222pt too wide) in paragraph at lines 1356--1361
-[]\TU/KohinoorBangla(0)/b/n/12 মানবাধিকারের চরম লঙ্ঘন\TU/TimesNewRoman(0)/b/n/1
-2 : \TU/KohinoorBangla(0)/m/n/12 আন্তর্জাতিক সম্প্রদায় ও বিভিন্ন মানবাধিকার সংস
-্থার বারবার সতর্কবাণী
- []
-
-
-Overfull \hbox (20.53212pt too wide) in paragraph at lines 1366--1370
-\TU/KohinoorBangla(0)/m/n/12 হিসেবে চিহ্নিত হয়ে থাকবে। পুনর্গঠনের বিশাল চ্যালেঞ
-্জ এবং সামাজিক কাঠামো পুনরুদ্ধারে আন্তর্জাতিক
- []
-
-
-Overfull \hbox (6.86046pt too wide) in paragraph at lines 1385--1396
-\TU/KohinoorBangla(0)/m/n/12 সংস্থাগুলোর প্রতিবেদন গাজায় অনাহারের ধীরে ধীরে \TU
-/TimesNewRoman(0)/m/n/12 “\TU/KohinoorBangla(0)/m/n/12 মানবসৃষ্ট দুর্ভিক্ষে\TU/
-TimesNewRoman(0)/m/n/12 ” \TU/KohinoorBangla(0)/m/n/12 রূপ নেওয়ার প্রক্রিয়াকে ব
-িশ্ববাসীর
- []
-
-
-Overfull \hbox (4.45572pt too wide) in paragraph at lines 1397--1404
-\TU/KohinoorBangla(0)/m/n/12 আন্তর্জাতিক মানবিক আইনের মৌলিক নীতির সঙ্গে অসামঞ্জ
-স্যপূর্ণ |   []   |   []   |   []   |   []   |   []
- []
-
-[35]
-Overfull \hbox (6.62811pt too wide) in paragraph at lines 1405--1411
-[]\TU/KohinoorBangla(0)/m/n/12 একইভাবে\TU/TimesNewRoman(0)/m/n/12 , \TU/Kohinoo
-rBangla(0)/m/n/12 জাতিসংঘের মানবাধিকার বিষয়ক হাইকমিশনার ঠড়ষশবৎ ঞহৃৎশ গাজায় চলমা
-ন পরিস্থিতিকে
- []
-
-
-Overfull \hbox (11.91212pt too wide) in paragraph at lines 1435--1443
-\TU/KohinoorBangla(0)/m/n/12 যুদ্ধবিরতি\TU/TimesNewRoman(0)/m/n/12 , \TU/Kohino
-orBangla(0)/m/n/12 অবরোধ শিথিলকরণ কিংবা মানবিক করিডোর নিশ্চিত করার মতো প্রস্তাব
-গুলো বারবার উত্থাপিত
- []
-
-
-Overfull \hbox (4.81213pt too wide) in paragraph at lines 1444--1452
-\TU/KohinoorBangla(0)/m/n/12 নিরাপত্তা পরিষদের এই ব্যর্থতা ভবিষ্যতের আন্তর্জাতি
-ক জবাবদিহিতার কাঠামো নিয়েও গুরুতর প্রশ্ন উত্থাপন
- []
-
-[36]
-Overfull \hbox (7.68724pt too wide) in paragraph at lines 1492--1498
-\TU/KohinoorBangla(0)/m/n/12 আন্তর্জাতিক ফৌজদারি আদালত \TU/TimesNewRoman(0)/m/n
-/12 (ICC) \TU/KohinoorBangla(0)/m/n/12 ফিলিস্তিন পরিস্থিতি নিয়ে বহু বছর ধরেই প্
-রাথমিক তদন্ত পরিচালনা
- []
-
-
-Overfull \hbox (16.96814pt too wide) in paragraph at lines 1499--1506
-[]\TU/KohinoorBangla(0)/m/n/12 তবে \TU/TimesNewRoman(0)/m/n/12 ICC-\TU/Kohinoor
-Bangla(0)/m/n/12 এর কার্যক্রম গুরুতর রাজনৈতিক ও বাস্তব প্রতিবন্ধকতার মুখোমুখি। 
-ইসরাইল আদালতের এখতিয়ার
- []
-
-[37]
-Overfull \hbox (26.11061pt too wide) in paragraph at lines 1515--1522
-\TU/TimesNewRoman(0)/m/n/12 versal Jurisdiction) \TU/KohinoorBangla(0)/m/n/12 প
-্রয়োগের মাধ্যমে ইসরাইলি কর্মকর্তাদের বিরুদ্ধে মামলা গ্রহণ করেছে। স্পেন\TU/Times
-NewRoman(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/12 বেলজিয়ামসহ
- []
-
-
-Overfull \hbox (1.81212pt too wide) in paragraph at lines 1515--1522
-\TU/KohinoorBangla(0)/m/n/12 তদন্তের নজির রয়েছে। এই ব্যবস্থা তাত্ত্বিকভাবে অত্য
-ন্ত গুরুত্বপূর্ণ\TU/TimesNewRoman(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/12 কারণ
- এটি দেখায় যে গুরুতর আন্তর্জাতিক
- []
-
-
-Overfull \hbox (94.91576pt too wide) in paragraph at lines 1532--1533
-\TU/TimesNewRoman(0)/m/it/10.95 Crimes \TU/TimesNewRoman(0)/m/n/10.95 (2024). [
-]$[][][][][] [] [] [] [][][] [] [][][][][][][] [] [][][] [] [][] [] [][][][][][
-][][][][][][] [] [][][][][][][][][][][][][][][][][][][][][][] [] [][][][][][][]
-[][][][][][][][][][][][][][][][][]$[] 
- []
-
-
-Overfull \hbox (20.01614pt too wide) in paragraph at lines 1547--1556
-\TU/KohinoorBangla(0)/m/n/12 উদাহরণ। এই নীতিগত অবস্থান ইসরাইলকে একটি শক্ত বার্ত
-া দিয়েছে যে তার সামরিক কৌশল ও অবরোধমূলক
- []
-
-[38]
-Overfull \hbox (250.1307pt too wide) in paragraph at lines 1567--1568
-[][][][] [] [][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[40] [41] [42]
+Overfull \hbox (457.20773pt too wide) in paragraph at lines 1562--1563
+\TU/TimesNewRoman(0)/m/it/9 in Unlawful Killings in Gaza \TU/TimesNewRoman(0)/m
+/n/9 (2024). []$[][][][][] [] [] [] [][][] [] [][][][][][][] [] [][][] [] [][] 
+[] [][][][][][] [] [][][][] [] [][][][] [] [][] [] [][][][][][][][][][][][][][]
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][]$[] 
- []
-
-
-Overfull \hbox (14.28125pt too wide) in paragraph at lines 1572--1579
-\TU/KohinoorBangla(0)/m/n/12 আফ্রিকা আন্তর্জাতিক ন্যায়বিচার আদালতে \TU/TimesNew
-Roman(0)/m/n/12 (ICJ) \TU/KohinoorBangla(0)/m/n/12 মামলা দায়ের করে এবং আন্তর্জা
-তিক ফৌজদারি আদালতে
- []
-
-
-Overfull \hbox (198.11363pt too wide) in paragraph at lines 1611--1612
-\TU/TimesNewRoman(0)/m/it/10.95 Violations Must End \TU/TimesNewRoman(0)/m/n/10
-.95 (2024). []$[][][][][] [] [] [] [][][] [] [][][] [] [][][] [] [][][][] [] []
-[][][] [] [][] [] [][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$[] 
- []
-
-[39]
-Overfull \hbox (51.68199pt too wide) in paragraph at lines 1627--1628
-\TU/TimesNewRoman(0)/m/it/10.95 tarian Access \TU/TimesNewRoman(0)/m/n/10.95 (2
-024). []$[][][][][] [] [] [] [][][] [] [][][][][][][] [] [][][] [] [][] [] [][]
-[][][][] [] [][][][][][][][][] [] [][][][] [] [][] [] [][][][][][][][][][][][][
-][][][][][][][][]$[] 
- []
-
-
-Overfull \hbox (9.71614pt too wide) in paragraph at lines 1632--1640
-\TU/KohinoorBangla(0)/m/n/12 প্রতিবেদন ও আন্তর্জাতিক আইনের বিশ্লেষণের মাধ্যমে অ
-নাহার\TU/TimesNewRoman(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/12 সমষ্টিগত শাস্তি
- এবং বেসামরিক অবকাঠামো
- []
-
-
-Overfull \hbox (13.99214pt too wide) in paragraph at lines 1632--1640
-\TU/KohinoorBangla(0)/m/n/12 ধ্বংসের ঘটনাগুলো আন্তর্জাতিক পরিসরে তুলে ধরেছে। এই
- প্রতিবেদনগুলো জাতিসংঘ\TU/TimesNewRoman(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/1
-2 আন্তর্জাতিক আদালত
- []
-
-
-Overfull \hbox (7.84015pt too wide) in paragraph at lines 1654--1660
-\TU/KohinoorBangla(0)/m/n/12 আন্তর্জাতিক ও বিকল্প গণমাধ্যম এবং সামাজিক যোগাযোগম
-াধ্যম গাজা সংকটকে বিশ্বব্যাপী জনআলোচনার
- []
-
-[40]
-Overfull \hbox (27.36269pt too wide) in paragraph at lines 1686--1687
-\TU/KohinoorBangla(0)/b/n/10.95 সূত্র\TU/TimesNewRoman(0)/b/n/10.95 : \TU/Times
-NewRoman(0)/m/n/10.95 BDS National Committee, \TU/TimesNewRoman(0)/m/it/10.95 B
-DS Movement: Freedom, Justice, Equality \TU/TimesNewRoman(0)/m/n/10.95 (2024). 
-[]$[][][][][] [] [] [] [][][][][][][][][][][] []
- []
-
-[41]
-Overfull \hbox (2.21613pt too wide) in paragraph at lines 1728--1735
-\TU/KohinoorBangla(0)/m/n/12 মূলত তাৎক্ষণিক যুদ্ধবিরতি\TU/TimesNewRoman(0)/m/n/
-12 , \TU/KohinoorBangla(0)/m/n/12 বেসামরিক সুরক্ষা নিশ্চিতকরণ এবং মানবিক সহায়ত
-ার অবাধ প্রবেশ নিশ্চিত
- []
-
-[42]
-Overfull \hbox (14.28014pt too wide) in paragraph at lines 1788--1796
-\TU/KohinoorBangla(0)/m/n/12 জবাবদিহিতার গুরুত্বপূর্ণ মঞ্চ হলেও\TU/TimesNewRoma
-n(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/12 তাদের কার্যকারিতা গুরুতর সীমাবদ্ধতার
- মুখোমুখি। এই আদালতগুলোর
- []
-
-
-Overfull \hbox (16.4156pt too wide) in paragraph at lines 1800--1801
-\TU/KohinoorBangla(0)/b/n/10.95 সূত্র\TU/TimesNewRoman(0)/b/n/10.95 : \TU/Times
-NewRoman(0)/m/n/10.95 International Crisis Group, \TU/TimesNewRoman(0)/m/it/10.
-95 Pulling Back from the Brink in Gaza \TU/TimesNewRoman(0)/m/n/10.95 (2024). [
-]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][] []
- []
-
-
-Overfull \hbox (79.91699pt too wide) in paragraph at lines 1800--1801
-[][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][] [] [][][][][][
-][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][] [] []
-[][][][][][][][][][][][][][][][][][][][][][][][][]$[] 
- []
-
-
-Overfull \hbox (1.21213pt too wide) in paragraph at lines 1824--1845
-\TU/KohinoorBangla(0)/m/n/12 স্পষ্টভাবে দেখায় যে\TU/TimesNewRoman(0)/m/n/12 , \
-TU/KohinoorBangla(0)/m/n/12 ২০২৩ সালের অক্টোবরের পর গাজায় অনাহার কোনো প্রাকৃতিক
- দুর্যোগ বা অনিচ্ছাকৃত
- []
-
-
-Overfull \hbox (9.69633pt too wide) in paragraph at lines 1824--1845
-\TU/KohinoorBangla(0)/m/n/12 প্রমাণিত হয়েছে যে পূর্ণাঙ্গ অবরোধ\TU/TimesNewRoman
-(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/12 খাদ্য উৎপাদন ও সরবরাহ ব্যবস্থার ধ্বংস
-\TU/TimesNewRoman(0)/m/n/12 , \TU/KohinoorBangla(0)/m/n/12 পানি\TU/TimesNewRoma
-n(0)/m/n/12 -\TU/KohinoorBangla(0)/m/n/12 বিদ্যুৎ\TU/TimesNewRoman(0)/m/n/12 -\
-TU/KohinoorBangla(0)/m/n/12 স্বাস্থ্য অবকাঠামোর
- []
-
-
-Overfull \hbox (1.80814pt too wide) in paragraph at lines 1824--1845
-\TU/KohinoorBangla(0)/m/n/12 আইন ও মানবাধিকার আইনের আলোকে এই কর্মকাণ্ডগুলো স্পষ
-্টতই সমষ্টিগত শাস্তি\TU/TimesNewRoman(0)/b/n/12 , \TU/KohinoorBangla(0)/m/n/12 
-বেসামরিক জনগণের
- []
-
-
-Overfull \hbox (10.57617pt too wide) in paragraph at lines 1824--1845
-\TU/KohinoorBangla(0)/m/n/12 আদালতগুলো \TU/TimesNewRoman(0)/m/n/12 (ICJ \TU/Koh
-inoorBangla(0)/m/n/12 ও \TU/TimesNewRoman(0)/m/n/12 ICC) \TU/KohinoorBangla(0)/
-m/n/12 এই বাস্তবতাকে আংশিকভাবে স্বীকৃতি দিলেও\TU/TimesNewRoman(0)/m/n/12 , \TU/
-KohinoorBangla(0)/m/n/12 রাজনৈতিক বাস্তবতা ও বলপ্রয়োগ
- []
-
-
-Overfull \hbox (0.27614pt too wide) in paragraph at lines 1824--1845
-\TU/KohinoorBangla(0)/m/n/12 আন্তর্জাতিক আইনের নৈতিক ভিত্তিকে প্রশ্নবিদ্ধ করেছে
- এবং ভবিষ্যতে অনুরূপ মানবসৃষ্ট দুর্ভিক্ষ প্রতিরোধের
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$[] 
  []
 
 [43]
-Overfull \hbox (8.21213pt too wide) in paragraph at lines 1862--1864
-[]\TU/KohinoorBangla(0)/m/n/12 মানবিক সহায়তাকে রাজনৈতিক নিয়ন্ত্রণের বাইরে রাখতে
- নিরপেক্ষ মানবিক করিডোর প্রতিষ্ঠা নিশ্চিত
+Overfull \hbox (52.53503pt too wide) in paragraph at lines 1606--1607
+\TU/TimesNewRoman(0)/m/it/9 Must End \TU/TimesNewRoman(0)/m/n/9 (2024). []$[][]
+[][][] [] [] [] [][][] [] [][][] [] [][][] [] [][][][] [] [][][][] [] [][] [] [
+][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][]$[] 
  []
 
-
-Overfull \hbox (15.1787pt too wide) in paragraph at lines 1878--1880
-[]\TU/KohinoorBangla(0)/m/n/12 জাতীয় আদালতসমূহে সর্বজনীন এখতিয়ার \TU/TimesNewRo
-man(0)/m/n/12 (Universal Jurisdiction) \TU/KohinoorBangla(0)/m/n/12 প্রয়োগকে উৎ
-সাহিত ও সুরক্ষিত
+[44] [45] [46] [47]
+Overfull \hbox (3.58125pt too wide) in paragraph at lines 1783--1791
+\TU/KohinoorBangla(0)/m/n/10 আন্তর্জাতিক ন্যায়বিচার আদালত \TU/TimesNewRoman(0)
+/m/n/10 (ICJ) \TU/KohinoorBangla(0)/m/n/10 ও আন্তর্জাতিক ফৌজদারি আদালত \TU/Time
+sNewRoman(0)/m/n/10 (ICC) \TU/KohinoorBangla(0)/m/n/10 গাজা সংকটে আইনি জবাবদিহি
+তার
  []
 
-
-Overfull \hbox (4.04816pt too wide) in paragraph at lines 1889--1892
-[]\TU/KohinoorBangla(0)/m/n/12 নাগরিক সমাজ\TU/TimesNewRoman(0)/m/n/12 , \TU/Koh
-inoorBangla(0)/m/n/12 গণমাধ্যম ও একাডেমিক প্রতিষ্ঠানগুলোর নথিভুক্তকরণ ও সচেতনতা
-মূলক কার্যক্রম
- []
-
-[44]
-Underfull \hbox (badness 10000) in paragraph at lines 1931--1932
+[48] [49] [50]
+Underfull \hbox (badness 10000) in paragraph at lines 1924--1925
 
  []
 
 
-Overfull \hbox (22.0946pt too wide) in paragraph at lines 1944--1945
-[]|   []   |   []   |   []   |   []   |   []   |   []   |   []   |   []   |   [
-]   |   []   |   []   |   []   |   []   |   []\TU/TimesNewRoman(0)/b/n/12 .
- []
-
-
-Overfull \hbox (142.83513pt too wide) in paragraph at lines 1944--1945
-\TU/TimesNewRoman(0)/b/n/12 (n.d.). Retrieved January 22, 2026, from https://en
+Overfull \hbox (57.71208pt too wide) in paragraph at lines 1937--1938
+\TU/TimesNewRoman(0)/b/n/10 (n.d.). Retrieved January 22, 2026, from https://en
 glish.news.cn/20251017/ada81832c1fa4f1e954498ec2bc1655c/c.html 
  []
 
 
-Overfull \hbox (153.32927pt too wide) in paragraph at lines 1949--1950
+Overfull \hbox (23.78722pt too wide) in paragraph at lines 1942--1943
+|   []   |   []   |   []   |   []   |   []\TU/TimesNewRoman(0)/b/n/10 , |   [](
+5), 70–85. https://doi.org/10.54660/.ijmrge.2025.6.5.70-
+ []
+
+[51]
+Overfull \hbox (11.87021pt too wide) in paragraph at lines 1956--1957
+\TU/TimesNewRoman(0)/b/n/10 Conflict. |   []   |   []   |   []   |   []   |   [
+], |   [](4), 815–847. https://doi.org/10.1093/JICJ/MQZ042 
+ []
+
+
+Overfull \hbox (84.46756pt too wide) in paragraph at lines 1982--1983
 |   []   |   []   |   []   |   []   |   []   |   []   |   []\TU/TimesNewRoman(0
-)/b/n/12 , |   [](5), 70–85. https://doi.org/10.54660/.ijmrge.2025.6.5.70-
+)/b/n/10 . (n.d.). Retrieved January 22, 2026, from https://www.un.org/unispal/
+document/gaza-
  []
 
 
-Overfull \hbox (10.53992pt too wide) in paragraph at lines 1953--1954
-\TU/TimesNewRoman(0)/b/n/12 from https://www.unicef.org/emergencies/children-ga
-za-need-lifesaving-support#UNICEF-
+Overfull \hbox (113.99258pt too wide) in paragraph at lines 1994--1995
+|   []   |   []   |   []   |   []   |   []\TU/TimesNewRoman(0)/b/n/10 . (n.d.).
+ https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/coiopt/
+202309-
  []
 
 
-Overfull \hbox (71.4061pt too wide) in paragraph at lines 1958--1959
-\TU/TimesNewRoman(0)/b/n/12 rary uses. |   []   |   []   |   []   |   []   |   
-[], |   [](4), 699–722. https://doi.org/10.1093/jicj/mqz054 
+Overfull \hbox (31.79285pt too wide) in paragraph at lines 1998--1999
+\TU/TimesNewRoman(0)/b/n/10 https://www.amnesty.org/en/location/middle-east-and
+-north-africa/middle-east/palestine-state-of/report-palestine-
  []
 
-[45]
-Overfull \hbox (120.07993pt too wide) in paragraph at lines 1963--1964
-\TU/TimesNewRoman(0)/b/n/12 Armed Conflict. |   []   |   []   |   []   |   []  
- |   [], |   [](4), 815–847. https://doi.org/10.1093/JICJ/MQZ042 
+[52]
+Overfull \hbox (55.89441pt too wide) in paragraph at lines 2052--2053
+\TU/TimesNewRoman(0)/b/n/10 https://www.politybooks.com/bookdetail?book_slug=ma
+ss-starvation-the-history-and-future-of-famine--9781509524662 
  []
 
-
-Overfull \hbox (22.22925pt too wide) in paragraph at lines 1971--1972
-|   []   |   []   |   []   |   []   |   []   |   []   |   []   |   []   |   []
- []
-
-
-Overfull \hbox (62.02318pt too wide) in paragraph at lines 1971--1972
-|   []   |   []   |   []   |   []   |   []   |   []   |   []   |   []   |   [] 
-  |   []   |   []
- []
-
-
-Overfull \hbox (18.83354pt too wide) in paragraph at lines 1975--1976
-\TU/TimesNewRoman(0)/b/n/12 167–191. https://doi.org/10.1177/002234336900600301
-;WGROUP:STRING:PUBLICATION 
- []
-
-
-Overfull \hbox (18.83354pt too wide) in paragraph at lines 1979--1980
-\TU/TimesNewRoman(0)/b/n/12 167–191. https://doi.org/10.1177/002234336900600301
-;WGROUP:STRING:PUBLICATION 
- []
-
-
-Overfull \hbox (50.45493pt too wide) in paragraph at lines 1984--1985
-|   []\TU/TimesNewRoman(0)/b/n/12 . (n.d.). Retrieved January 22, 2026, from ht
-tps://www.aljazeera.com/news/2025/12/23/gaza-
- []
-
-
-Overfull \hbox (15.85661pt too wide) in paragraph at lines 1994--1995
-\TU/TimesNewRoman(0)/b/n/12 (n.d.). Retrieved January 22, 2026, from https://ed
-ition.cnn.com/2023/10/11/middleeast/gaza-
- []
-
-
-Overfull \hbox (371.6932pt too wide) in paragraph at lines 2001--2002
-|   []   |   []   |   []   |   []   |   []   |   []   |   []   |   []\TU/TimesN
-ewRoman(0)/b/n/12 . (n.d.). https://www.ohchr.org/sites/default/files/documents
-/hrbodies/hrcouncil/coiopt/202309-
- []
-
-
-Overfull \hbox (57.9743pt too wide) in paragraph at lines 2005--2006
-\TU/TimesNewRoman(0)/b/n/12 2026, from https://www.amnesty.org/en/location/midd
-le-east-and-north-africa/middle-east/palestine-
- []
-
-
-Overfull \hbox (24.6997pt too wide) in paragraph at lines 2013--2014
-\TU/TimesNewRoman(0)/b/n/12 Retrieved January 22, 2026, from https://ihl-databa
-ses.icrc.org/en/ihl-treaties/api-1977/article-
- []
-
-
-Overfull \hbox (102.7583pt too wide) in paragraph at lines 2029--2030
-\TU/TimesNewRoman(0)/b/n/12 trieved January 22, 2026, from https://www.ohchr.or
-g/en/instruments-mechanisms/instruments/international-
- []
-
-[46]
-Overfull \hbox (3.14763pt too wide) in paragraph at lines 2034--2035
-\TU/TimesNewRoman(0)/b/n/12 (n.d.). Retrieved January 22, 2026, from https://ww
-w.aljazeera.com/news/2023/10/9/israel-
- []
-
-
-Overfull \hbox (13.6864pt too wide) in paragraph at lines 2059--2060
-\TU/TimesNewRoman(0)/b/n/12 from https://www.politybooks.com/bookdetail?book_sl
-ug=mass-starvation-the-history-and-
- []
-
-
-Overfull \hbox (15.59424pt too wide) in paragraph at lines 2063--2064
-\TU/TimesNewRoman(0)/b/n/12 Retrieved January 22, 2026, from https://www.unicef
-.org/press-releases/more-5000-children-
- []
-
-
-Overfull \hbox (157.54868pt too wide) in paragraph at lines 2073--2074
-[]|   []   |   []   |   []   |   []   |   []\TU/TimesNewRoman(0)/b/n/12 . (n.d.
+[53]
+Overfull \hbox (81.75089pt too wide) in paragraph at lines 2066--2067
+[]|   []   |   []   |   []   |   []   |   []\TU/TimesNewRoman(0)/b/n/10 . (n.d.
 ). Retrieved January 18, 2026, from https://www.wfp.org/emergencies/palestine-
  []
 
 
-Overfull \hbox (12.02588pt too wide) in paragraph at lines 2077--2078
-\TU/TimesNewRoman(0)/b/n/12 trieved January 22, 2026, from https://www.ifj.org/
-media-centre/news/detail/category/press-
- []
-
-
-Overfull \hbox (14.32898pt too wide) in paragraph at lines 2098--2099
-[]|   []   |   []   |   []   |   []   |   []   |   []   |   []   |   []   |   [
-]   |   []   |   []   |   []   |   []
- []
-
-
-Overfull \hbox (56.0936pt too wide) in paragraph at lines 2098--2099
-|   []   |   []\TU/TimesNewRoman(0)/b/n/12 . (n.d.). Retrieved January 18, 2026
-, from https://www.ochaopt.org/publications 
- []
-
-[47]
-Overfull \hbox (14.99109pt too wide) in paragraph at lines 2106--2107
-\TU/TimesNewRoman(0)/b/n/12 says-70-of-gazas-water-production-disrupted-as-isra
-el-blocks-dual-use-repair-item/3807039 
- []
-
-
-Overfull \hbox (102.60333pt too wide) in paragraph at lines 2110--2111
-[]|   []   |   []   |   []   |   []   |   []\TU/TimesNewRoman(0)/b/n/12 . (n.d.
+Overfull \hbox (35.96277pt too wide) in paragraph at lines 2103--2104
+[]|   []   |   []   |   []   |   []   |   []\TU/TimesNewRoman(0)/b/n/10 . (n.d.
 ). Retrieved January 18, 2026, from https://www.emro.who.int/opt/priority-
  []
 
-
-Overfull \hbox (10.57327pt too wide) in paragraph at lines 2114--2115
-[]\TU/TimesNewRoman(0)/b/n/12 Wilkin, P. (2025). (Geo)culture and the West’s Wa
-r Against Gaza. |   []   |   []   |   []
- []
-
-)
+[54])
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -2409,12 +1365,12 @@ braces):
 >  {bengali/babelname}  =>  {bengali}
 >  {bengali/localnumeral}  =>  {bengalinumerals}
 >  {bengali/Localnumeral}  =>  {bengalinumerals}.
- [48] (main.aux
+ [55] (main.aux
 LaTeX Info: Redefining \rmfamily on input line 19.
 LaTeX Info: Redefining \sffamily on input line 19.
 LaTeX Info: Redefining \ttfamily on input line 19.
 )
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 276BB5415C2E3CE800692B28AF8BCFC3;16352.
+(rerunfilecheck)             Checksum: 4914FA2664869379BDE84B837CC45A8A;16146.
  )
-Output written on main.xdv (49 pages, 1205564 bytes).
+Output written on main.xdv (56 pages, 1210244 bytes).
