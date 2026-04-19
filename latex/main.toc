@@ -75,7 +75,7 @@
 \contentsline {subsection}{\numberline {৪.২}আন্তর্জাতিক আদালত ও বিচারিক প্রক্রিয়া}{৪৩}{subsection.0.4.2}%
 \contentsline {subsubsection}{\numberline {৪.২.১}আন্তর্জাতিক ন্যায়বিচার আদালত (ICJ): দক্ষিণ আফ্রিকার মামলা ও এর তাৎপর্য}{৪৩}{subsubsection.0.4.2.1}%
 \contentsline {subsubsection}{\numberline {৪.২.২}আন্তর্জাতিক ফৌজদারি আদালত (ICC)}{৪৩}{subsubsection.0.4.2.2}%
-\contentsline {subsubsection}{\numberline {৪.২.৩}সর্বজনীন এখতিয়ার (Universal Jurisdiction)}{৪৪}{subsubsection.0.4.2.3}%
+\contentsline {subsubsection}{\numberline {৪.২.৩}সর্বজনীন এখতিয়ার}{৪৪}{subsubsection.0.4.2.3}%
 \contentsline {subsection}{\numberline {৪.৩}আঞ্চলিক ও রাষ্ট্রীয় ভূমিকা: কূটনৈতিক বিভাজন ও নিরব সমর্থন}{৪৪}{subsection.0.4.3}%
 \contentsline {subsubsection}{\numberline {৪.৩.১}ইসরাইলের অকৃত্রিম মিত্র: যুক্তরাষ্ট্র ও কিছু পশ্চিমা রাষ্ট্র}{৪৫}{subsubsection.0.4.3.1}%
 \contentsline {subsubsection}{\numberline {৪.৩.২}সক্রিয় সমালোচক ও আইনি পদক্ষেপের নেতৃত্ব}{৪৫}{subsubsection.0.4.3.2}%
