@@ -51,6 +51,8 @@
 
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{6pt}
+\setcounter{secnumdepth}{4}
+\setcounter{tocdepth}{4}
 \spaceskip=0.5em plus 0.3em minus 0.1em
 \linespread{1.7}
 
@@ -65,6 +67,16 @@
 \renewcommand{\thesection}{\bnglnum{section}}
 \renewcommand{\thesubsection}{\thesection.\bnglnum{subsection}}
 \renewcommand{\thesubsubsection}{\thesubsection.\bnglnum{subsubsection}}
+\renewcommand{\theparagraph}{\thesubsubsection.\bnglnum{paragraph}}
+
+\makeatletter
+\renewcommand{\@seccntformat}[1]{%
+  \ifnum\pdfstrcmp{#1}{section}=0\relax\else
+    \csname the#1\endcsname\quad
+  \fi
+}
+\makeatother
+\renewcommand{\thepage}{\bnglnum{page}}
 
 \addto\captionsenglish{\renewcommand{\contentsname}{সূচিপত্র}}
 
