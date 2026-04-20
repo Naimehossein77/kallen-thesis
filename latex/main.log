@@ -1006,9 +1006,9 @@ File: media/media/image1.png Graphic file (type bmp)
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 109.
+(Font)              <7> on input line 112.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 109.
+(Font)              <5> on input line 112.
  [2
 
 ] [3
@@ -1028,7 +1028,7 @@ LaTeX Info: Redefining \ttfamily on input line 1.
 
  [8] [9] [10] [11] [12]
 [13] [14]
-Overfull \hbox (29.62779pt too wide) in paragraph at lines 244--245
+Overfull \hbox (29.62779pt too wide) in paragraph at lines 247--248
 []\TU/TimesNewRoman(0)/m/n/10 (Pérez-López et al., 2025) \TU/KohinoorBangla(0)/
 m/n/10 এই গবেষণায় যুদ্ধ\TU/TimesNewRoman(0)/m/n/10 -\TU/KohinoorBangla(0)/m/n/1
 0 বিধ্বস্ত ফিলিস্তিনি শিশুদের মধ্যে কার্বাপেনেমাস\TU/TimesNewRoman(0)/m/n/10 -\
@@ -1037,11 +1037,11 @@ TU/KohinoorBangla(0)/m/n/10 প্রডিউসিং এন্টারোব
 
 [15] [16] [17]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 343.
+(Font)              <9> on input line 346.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 343.
+(Font)              <6> on input line 346.
 
-Overfull \hbox (152.60788pt too wide) in paragraph at lines 343--344
+Overfull \hbox (152.60788pt too wide) in paragraph at lines 346--347
 [][][][][][] [] [][][] [] [][][][][][][][][][][][] [] [][][][][][] [] [][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][]
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
@@ -1049,7 +1049,7 @@ Overfull \hbox (152.60788pt too wide) in paragraph at lines 343--344
  []
 
 [18] [19]
-Overfull \hbox (152.60788pt too wide) in paragraph at lines 432--433
+Overfull \hbox (152.60788pt too wide) in paragraph at lines 435--436
 [][][][][][] [] [][][] [] [][][][][][][][][][][][] [] [][][][][][] [] [][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][]
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
@@ -1057,7 +1057,7 @@ Overfull \hbox (152.60788pt too wide) in paragraph at lines 432--433
  []
 
 [20]
-Overfull \hbox (22.3082pt too wide) in paragraph at lines 458--467
+Overfull \hbox (22.3082pt too wide) in paragraph at lines 461--470
 [][][][][] [] [][][] [] [][] [] [][][][][][][][][][][][][][][] [] [][][][] [] [
 ][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$[]\TU/
@@ -1065,7 +1065,7 @@ TimesNewRoman(0)/m/n/9 ;
  []
 
 
-Overfull \hbox (61.51942pt too wide) in paragraph at lines 458--467
+Overfull \hbox (61.51942pt too wide) in paragraph at lines 461--470
 \TU/TimesNewRoman(0)/m/n/9 (\TU/KohinoorBangla(0)/m/n/9 অক্টোবর ২০২৩\TU/TimesNe
 wRoman(0)/m/n/9 ). []$[][][][][] [] [] [] [][][][][][] [] [][][][][][][][][] []
  [][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
@@ -1074,14 +1074,14 @@ wRoman(0)/m/n/9 ). []$[][][][][] [] [] [] [][][][][][] [] [][][][][][][][][] []
  []
 
 
-Overfull \hbox (6.24084pt too wide) in paragraph at lines 483--490
+Overfull \hbox (6.24084pt too wide) in paragraph at lines 486--493
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 [][][][][][][][][][][][][][][][][][]$[]\TU/TimesNewRoman(0)/m/n/9 ; UN OCHA,
  []
 
 [21]
-Overfull \hbox (277.29318pt too wide) in paragraph at lines 505--512
+Overfull \hbox (277.29318pt too wide) in paragraph at lines 508--515
 \TU/TimesNewRoman(0)/m/n/9 (\TU/KohinoorBangla(0)/m/n/9 নভেম্বর ২০২৩\TU/TimesNe
 wRoman(0)/m/n/9 ). []$[][][][][] [] [] [] [][][] [] [][][] [] [][][] [] [][][][
 ] [] [][][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
@@ -1091,7 +1091,7 @@ wRoman(0)/m/n/9 ). []$[][][][][] [] [] [] [][][] [] [][][] [] [][][] [] [][][][
  []
 
 [22]
-Overfull \hbox (3.45143pt too wide) in paragraph at lines 540--544
+Overfull \hbox (3.45143pt too wide) in paragraph at lines 543--547
 \TU/KohinoorBangla(0)/m/n/10 শক্তিগুলোর মধ্যে কোন সম্মতি না থাকায়\TU/TimesNewR
 oman(0)/m/n/10 , \TU/KohinoorBangla(0)/m/n/10 স্থিতাবস্থা একটি অস্থায়ী কিন্তু 
 স্থায়ী সামরিক\TU/TimesNewRoman(0)/m/n/10 -\TU/KohinoorBangla(0)/m/n/10 নিয়ন্ত
@@ -1105,7 +1105,7 @@ File: kerem_shalom_blockade.jpg Graphic file (type bmp)
 File: gaza_bulldozer_farm.jpg Graphic file (type bmp)
 <gaza_bulldozer_farm.jpg>
 
-Overfull \hbox (65.10252pt too wide) in paragraph at lines 729--730
+Overfull \hbox (65.10252pt too wide) in paragraph at lines 732--733
 \TU/TimesNewRoman(0)/m/n/9 (\TU/KohinoorBangla(0)/m/n/9 ২০২৪\TU/TimesNewRoman(0
 )/m/n/9 ). []$[][][][][] [] [] [] [][][] [] [][][] [] [][][] [] [][][][][][][][
 ] [] [][][][] [] [][][][][][][] [] [][][][][][][][][][][][][][][][][][][][][][]
@@ -1117,7 +1117,7 @@ Overfull \hbox (65.10252pt too wide) in paragraph at lines 729--730
 File: gaza_water_crisis.jpg Graphic file (type bmp)
 <gaza_water_crisis.jpg>
 
-Overfull \hbox (5.83754pt too wide) in paragraph at lines 758--759
+Overfull \hbox (5.83754pt too wide) in paragraph at lines 761--762
 [][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][] [] [][][][] [] [][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 [][][][][][][][][][][][][][][][][][][][][][][][][][][]$[]\TU/TimesNewRoman(0)/m
@@ -1128,7 +1128,7 @@ Overfull \hbox (5.83754pt too wide) in paragraph at lines 758--759
 File: gaza_aid_blockade.png Graphic file (type bmp)
 <gaza_aid_blockade.png>
 
-Overfull \hbox (224.12294pt too wide) in paragraph at lines 788--789
+Overfull \hbox (224.12294pt too wide) in paragraph at lines 791--792
 \TU/TimesNewRoman(0)/m/it/9 Gaza Hunger Crisis Deepens \TU/TimesNewRoman(0)/m/n
 /9 (\TU/KohinoorBangla(0)/m/n/9 ২০২৪\TU/TimesNewRoman(0)/m/n/9 ). []$[][][][][]
  [] [] [] [][][] [] [][][][][][][][][] [] [][][] [] [][][][] [] [][][][] [] [][
@@ -1138,7 +1138,7 @@ Overfull \hbox (224.12294pt too wide) in paragraph at lines 788--789
  []
 
 [29] [30]
-Overfull \hbox (2.1615pt too wide) in paragraph at lines 917--922
+Overfull \hbox (2.1615pt too wide) in paragraph at lines 920--925
 \TU/KohinoorBangla(0)/m/n/10 জীবনধারণের সক্ষমতাকে পদ্ধতিগতভাবে দুর্বল করার একটি
  সুস্পষ্ট কৌশল নির্দেশ করে। তুলনামূলকভাবে\TU/TimesNewRoman(0)/m/n/10 ,
  []
@@ -1149,7 +1149,7 @@ File: gaza_child_malnutrition.jpg Graphic file (type bmp)
 File: gaza_children_displaced.jpg Graphic file (type bmp)
 <gaza_children_displaced.jpg>
 
-Overfull \hbox (5.8577pt too wide) in paragraph at lines 1019--1020
+Overfull \hbox (5.8577pt too wide) in paragraph at lines 1022--1023
 [][][][][][][][][][][] [] [][][][] [][] [][][][][] [] [][][] [] [][][][] [] [][
 ][] [] [][] [] [][][][][][][][][][][][] [] [][][] [] [][][][] [] [][] [] [][][]
 [][][][][][] [] [][][] [] [][] [] [][][] [] [][][] [] [][] [] [][][][] []
@@ -1164,14 +1164,14 @@ File: gaza_newborn_killed.jpg Graphic file (type bmp)
 File: media/media/image6.jpeg Graphic file (type bmp)
 <media/media/image6.jpeg>
 
-Overfull \hbox (16.00774pt too wide) in paragraph at lines 1109--1110
+Overfull \hbox (16.00774pt too wide) in paragraph at lines 1112--1113
  [][] 
  []
 
 File: media/media/image7.png Graphic file (type bmp)
 <media/media/image7.png>
 
-Overfull \hbox (15.45862pt too wide) in paragraph at lines 1111--1112
+Overfull \hbox (15.45862pt too wide) in paragraph at lines 1114--1115
  [][] 
  []
 
@@ -1179,26 +1179,26 @@ Overfull \hbox (15.45862pt too wide) in paragraph at lines 1111--1112
 File: media/media/image8.jpg Graphic file (type bmp)
 <media/media/image8.jpg>
 
-Overfull \hbox (30.9548pt too wide) in paragraph at lines 1144--1145
+Overfull \hbox (30.9548pt too wide) in paragraph at lines 1147--1148
 [][]  
  []
 
 File: media/media/image9.jpg Graphic file (type bmp)
 <media/media/image9.jpg>
 
-Overfull \hbox (30.9548pt too wide) in paragraph at lines 1146--1147
+Overfull \hbox (30.9548pt too wide) in paragraph at lines 1149--1150
 [][]  
  []
 
 [36] [37] [38] [39] [40]
-Overfull \hbox (0.24153pt too wide) in paragraph at lines 1402--1408
+Overfull \hbox (0.24153pt too wide) in paragraph at lines 1405--1411
 []\TU/KohinoorBangla(0)/m/n/10 একইভাবে\TU/TimesNewRoman(0)/m/n/10 , \TU/Kohinoo
 rBangla(0)/m/n/10 জাতিসংঘের মানবাধিকার বিষয়ক হাইকমিশনার ঠড়ষশবৎ ঞহৃৎশ গাজায় চলমা
 ন পরিস্থিতিকে আন্তর্জাতিক
  []
 
 [41] [42] [43] [44]
-Overfull \hbox (457.20773pt too wide) in paragraph at lines 1563--1564
+Overfull \hbox (457.20773pt too wide) in paragraph at lines 1566--1567
 \TU/TimesNewRoman(0)/m/it/9 in Unlawful Killings in Gaza \TU/TimesNewRoman(0)/m
 /n/9 (2024). []$[][][][][] [] [] [] [][][] [] [][][][][][][] [] [][][] [] [][] 
 [] [][][][][][] [] [][][][] [] [][][][] [] [][] [] [][][][][][][][][][][][][][]
@@ -1208,7 +1208,7 @@ Overfull \hbox (457.20773pt too wide) in paragraph at lines 1563--1564
  []
 
 [45]
-Overfull \hbox (52.53503pt too wide) in paragraph at lines 1607--1608
+Overfull \hbox (52.53503pt too wide) in paragraph at lines 1610--1611
 \TU/TimesNewRoman(0)/m/it/9 Must End \TU/TimesNewRoman(0)/m/n/9 (2024). []$[][]
 [][][] [] [] [] [][][] [] [][][] [] [][][] [] [][][][] [] [][][][] [] [][] [] [
 ][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
@@ -1216,7 +1216,7 @@ Overfull \hbox (52.53503pt too wide) in paragraph at lines 1607--1608
  []
 
 [46] [47] [48]
-Overfull \hbox (3.58125pt too wide) in paragraph at lines 1784--1792
+Overfull \hbox (3.58125pt too wide) in paragraph at lines 1787--1795
 \TU/KohinoorBangla(0)/m/n/10 আন্তর্জাতিক ন্যায়বিচার আদালত \TU/TimesNewRoman(0)
 /m/n/10 (ICJ) \TU/KohinoorBangla(0)/m/n/10 ও আন্তর্জাতিক ফৌজদারি আদালত \TU/Time
 sNewRoman(0)/m/n/10 (ICC) \TU/KohinoorBangla(0)/m/n/10 গাজা সংকটে আইনি জবাবদিহি
@@ -1224,62 +1224,62 @@ sNewRoman(0)/m/n/10 (ICC) \TU/KohinoorBangla(0)/m/n/10 গাজা সংকট
  []
 
 [49] [50] [51]
-Underfull \hbox (badness 10000) in paragraph at lines 1924--1925
+Underfull \hbox (badness 10000) in paragraph at lines 1927--1928
 
  []
 
 [52]
-Overfull \hbox (57.71208pt too wide) in paragraph at lines 1937--1938
+Overfull \hbox (57.71208pt too wide) in paragraph at lines 1940--1941
 \TU/TimesNewRoman(0)/b/n/10 (n.d.). Retrieved January 22, 2026, from https://en
 glish.news.cn/20251017/ada81832c1fa4f1e954498ec2bc1655c/c.html 
  []
 
 
-Overfull \hbox (23.78722pt too wide) in paragraph at lines 1942--1943
+Overfull \hbox (23.78722pt too wide) in paragraph at lines 1945--1946
 |   []   |   []   |   []   |   []   |   []\TU/TimesNewRoman(0)/b/n/10 , |   [](
 5), 70–85. https://doi.org/10.54660/.ijmrge.2025.6.5.70-
  []
 
 
-Overfull \hbox (11.87021pt too wide) in paragraph at lines 1956--1957
+Overfull \hbox (11.87021pt too wide) in paragraph at lines 1959--1960
 \TU/TimesNewRoman(0)/b/n/10 Conflict. |   []   |   []   |   []   |   []   |   [
 ], |   [](4), 815–847. https://doi.org/10.1093/JICJ/MQZ042 
  []
 
 
-Overfull \hbox (84.46756pt too wide) in paragraph at lines 1982--1983
+Overfull \hbox (84.46756pt too wide) in paragraph at lines 1985--1986
 |   []   |   []   |   []   |   []   |   []   |   []   |   []\TU/TimesNewRoman(0
 )/b/n/10 . (n.d.). Retrieved January 22, 2026, from https://www.un.org/unispal/
 document/gaza-
  []
 
 [53]
-Overfull \hbox (113.99258pt too wide) in paragraph at lines 1994--1995
+Overfull \hbox (113.99258pt too wide) in paragraph at lines 1997--1998
 |   []   |   []   |   []   |   []   |   []\TU/TimesNewRoman(0)/b/n/10 . (n.d.).
  https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/coiopt/
 202309-
  []
 
 
-Overfull \hbox (31.79285pt too wide) in paragraph at lines 1998--1999
+Overfull \hbox (31.79285pt too wide) in paragraph at lines 2001--2002
 \TU/TimesNewRoman(0)/b/n/10 https://www.amnesty.org/en/location/middle-east-and
 -north-africa/middle-east/palestine-state-of/report-palestine-
  []
 
 [54]
-Overfull \hbox (55.89441pt too wide) in paragraph at lines 2052--2053
+Overfull \hbox (55.89441pt too wide) in paragraph at lines 2055--2056
 \TU/TimesNewRoman(0)/b/n/10 https://www.politybooks.com/bookdetail?book_slug=ma
 ss-starvation-the-history-and-future-of-famine--9781509524662 
  []
 
 
-Overfull \hbox (81.75089pt too wide) in paragraph at lines 2066--2067
+Overfull \hbox (81.75089pt too wide) in paragraph at lines 2069--2070
 []|   []   |   []   |   []   |   []   |   []\TU/TimesNewRoman(0)/b/n/10 . (n.d.
 ). Retrieved January 18, 2026, from https://www.wfp.org/emergencies/palestine-
  []
 
 [55]
-Overfull \hbox (35.96277pt too wide) in paragraph at lines 2103--2104
+Overfull \hbox (35.96277pt too wide) in paragraph at lines 2106--2107
 []|   []   |   []   |   []   |   []   |   []\TU/TimesNewRoman(0)/b/n/10 . (n.d.
 ). Retrieved January 18, 2026, from https://www.emro.who.int/opt/priority-
  []
@@ -1343,4 +1343,4 @@ LaTeX Info: Redefining \ttfamily on input line 19.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 4E88AACE17E5041538309AFFBFBBBE9C;34000.
  )
-Output written on main.xdv (57 pages, 1287568 bytes).
+Output written on main.xdv (57 pages, 1293252 bytes).
